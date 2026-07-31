@@ -1,0 +1,90 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | Sell Mineral Rights Michigan",
+ "metaDescription": "Reach out about your Michigan mineral rights. Tell us about your county, your well, or your ownership situation and we'll give you a straight answer.",
+ "heroLead": "Got a question about minerals you own, inherited, or just found paperwork for? Reach out and tell us where the tract sits.",
+ "intro": [
+  "You don't need to have everything figured out before you contact us. Plenty of people who reach out aren't sure what county their minerals are in, whether the interest is even producing, or if it's worth anything at all. Tell us what you know, and we'll help you figure out the rest."
+ ],
+ "sections": [
+  {
+   "heading": "What to include when you reach out",
+   "paragraphs": [
+    "The county where your minerals sit, if you know it, helps us the most right off the bat, since Michigan's Antrim production is concentrated in a specific set of counties and value varies a lot depending on where a tract falls relative to active wells. If you have a division order, a royalty statement, or an old deed handy, mention it, but don't let missing paperwork stop you from reaching out.",
+    "If you inherited the interest and aren't sure who else in the family might share ownership, that's fine too. We can usually help sort out the ownership picture as part of the process rather than requiring you to have it nailed down first."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We'll ask a few questions about your ownership and, if the tract is producing, your recent royalty history. From there we do the work of confirming ownership through county records and, where applicable, checking the well's production and decline stage. You'll get a straight explanation of how we arrived at any number we offer, beyond the figure itself.",
+    "There's no obligation attached to reaching out. If our number doesn't work for you, or you want to compare it against another buyer first, that's entirely your call."
+   ]
+  },
+  {
+   "heading": "If you're not ready to sell",
+   "paragraphs": [
+    "Some people reach out just to understand what their minerals might be worth someday, without any plan to sell right now. That's a fine reason to contact us too. We're not going to push a sale on someone who's only trying to get informed, and answering honest questions costs you nothing."
+   ]
+  },
+  {
+   "heading": "If you're helping a family member",
+   "paragraphs": [
+    "It's common for one person in a family to handle mineral questions on behalf of aging parents or several siblings who inherited together. If that's your situation, tell us, and we'll walk you through what's needed to confirm authority to act, whether that's a probate document, a power of attorney, or simply coordinating directly with each owner once you've gathered everyone's information.",
+    "We'd rather take the extra step to confirm who we're actually talking to than move fast and get ownership wrong, especially with interests that have passed through more than one generation."
+   ]
+  },
+  {
+   "heading": "Other ways to reach us",
+   "paragraphs": [
+    "If you'd rather talk through your situation by phone before sending anything in writing, that's fine too. Mention whether your minerals are producing or undeveloped, and we can point you toward what information would be most useful to gather before the conversation goes further."
+   ]
+  },
+  {
+   "heading": "Questions before you've decided anything",
+   "paragraphs": [
+    "You don't need to be ready to sell to reach out. If you're comparing leasing against selling, trying to understand a royalty statement that doesn't make sense, or just want a straight answer about what your interest might realistically be worth, those are all fair reasons to contact us. We'd rather answer an honest question for free than have you make a decision based on a guess.",
+    "If your situation is unusual, an interest split across several states, a tract with no clear operator, an old lease nobody can locate, tell us anyway. We've worked through stranger ownership pictures than that, and it's usually more straightforward to untangle than it first appears."
+   ]
+  },
+  {
+   "heading": "What we don't do",
+   "paragraphs": [
+    "We don't call repeatedly after you've said no, and we don't sell your contact information to other buyers. If you reach out once and decide it's not the right time, that's the end of it unless you contact us again.",
+    "We also won't pretend to be your attorney or CPA. If your questions go beyond what we can honestly answer as a mineral buyer, we'll say so and point you toward the kind of professional who can help."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to know my exact ownership percentage before contacting you?",
+   "answer": "No, we can usually help establish that as part of the process using county deed and probate records, especially for inherited interests."
+  },
+  {
+   "question": "Is there a cost to reach out or get information?",
+   "answer": "No, there's no cost or obligation to ask questions or request information about your mineral interest."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "We typically respond within a business day or two, though it may take a little longer if we need to look into county records for your specific tract."
+  },
+  {
+   "question": "Can I contact you on behalf of multiple family members who inherited together?",
+   "answer": "Yes, this is common, and we can work through the ownership picture for the whole group, even if each heir ultimately decides differently."
+  },
+  {
+   "question": "Can I call instead of filling out a form?",
+   "answer": "Yes, either way works. If you'd rather talk it through by phone first, that's a fine way to start."
+  }
+ ],
+ "wordCount": 881,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightsmichigan-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

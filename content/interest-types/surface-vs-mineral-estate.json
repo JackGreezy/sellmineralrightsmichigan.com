@@ -1,0 +1,59 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate - Michigan Ownership Guide",
+ "metaDescription": "Confused whether you own the surface, the minerals, or both on your Michigan property? Here's how split estates work and what it means for selling.",
+ "heroLead": "Owning the farm doesn't automatically mean you own what's under it, and a lot of Michigan property owners find that out only after they try to sell one or the other.",
+ "intro": [
+  "Land in Michigan, like most oil and gas producing states, can be legally split into two separate estates: the surface estate, ownership of the ground itself, and the mineral estate, ownership of oil, gas, and other minerals below it. These two estates can be owned by the same person, which is called unified ownership, or they can be owned by two entirely different people, called a split estate, and Michigan has plenty of both, especially in Antrim and Niagaran-trend counties where the boom years of drilling triggered a lot of mineral severances that never got reunited with the surface.",
+  "If your family sold farmland decades ago but the deed specifically reserved the minerals, you might own mineral rights under land you haven't set foot on in years, owned now by strangers who live there or farm it. Or the reverse: you might own the surface of a piece of Michigan property and have no idea an operator has an active lease on minerals underneath it that were severed off before you or your family even bought the land. Both situations are common, and both require actually checking the record rather than assuming ownership works the way it feels like it should."
+ ],
+ "sections": [
+  {
+   "heading": "How Split Estates Happen in Michigan",
+   "paragraphs": [
+    "Most Michigan split estates trace back to one of two moments: an original landowner selling the surface while specifically reserving the minerals in the deed, common when someone wanted to keep future oil and gas upside while cashing out of the farming operation, or an owner selling the minerals separately while keeping the surface, common when a landowner needed cash during a downturn and the minerals were the more liquid asset to sell off. Either way, once that severance happens and gets recorded, the two estates travel through separate ownership chains from that point forward, get inherited separately, and can be sold completely independently of each other."
+   ]
+  },
+  {
+   "heading": "What the Mineral Owner Can and Can't Do on Someone Else's Surface",
+   "paragraphs": [
+    "Under Michigan law, the mineral estate is generally considered the dominant estate, meaning the mineral owner or their lessee has an implied right of reasonable surface use to access and develop the minerals, even if they don't own the surface. In practice this means an operator can typically access a well site, build necessary roads, and conduct drilling operations on someone else's surface land under the lease's terms, subject to reasonable compensation for surface damages, which varies by lease and by whether a separate surface use agreement was negotiated. If you're a surface owner dealing with a mineral lessee's access, or a mineral owner whose surface owner is pushing back on access, that's a real legal dynamic worth understanding, and a lease's specific surface use language matters a lot in how it plays out."
+   ]
+  },
+  {
+   "heading": "Selling One Estate Without the Other",
+   "paragraphs": [
+    "Mineral rights and surface rights are sold through completely different transactions and completely different markets. Selling your mineral interest doesn't touch your surface ownership at all if you happen to hold both, and vice versa. This is exactly what we handle, buying mineral interests, sometimes from owners who also own the surface and are keeping the land while selling just the minerals underneath, and sometimes from owners who inherited a mineral interest under land they've never owned or visited and have no reason to hold onto beyond whatever the royalty checks are worth.",
+    "Before selling either estate, confirm at the county register of deeds exactly what you own, surface only, minerals only, or both, and what the recorded legal description actually covers. It's not unusual for family paperwork to be vague on this point after a generation or two, and getting it wrong before a sale creates real problems down the line."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I own the surface, the minerals, or both?",
+   "answer": "Check the recorded deed at the county register of deeds in the county where the property sits. It will show whether minerals were reserved or conveyed separately from the surface, and family paperwork alone often isn't reliable enough after a generation or two of inheritance."
+  },
+  {
+   "question": "Can an operator drill on my land if I don't own the minerals?",
+   "answer": "Generally yes, under Michigan law the mineral estate is typically considered dominant, meaning the mineral owner or their lessee has an implied right of reasonable surface access to develop the minerals, usually subject to reasonable compensation for surface damages under the lease terms."
+  },
+  {
+   "question": "Do I need to sell my surface land and mineral rights together?",
+   "answer": "No, they're completely separate transactions. You can sell mineral rights while keeping the surface, or sell the surface while keeping minerals, without one sale affecting the other."
+  },
+  {
+   "question": "What if I inherited mineral rights under land I've never owned?",
+   "answer": "That's common in Michigan's split-estate counties. Confirm your ownership and legal description at the county register of deeds, then decide whether to keep collecting any royalty income or sell the interest, entirely independent of who currently owns the surface."
+  }
+ ],
+ "status": "written",
+ "wordCount": 885,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsmichigan-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

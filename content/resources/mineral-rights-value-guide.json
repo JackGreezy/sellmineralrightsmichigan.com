@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Michigan Mineral Rights Worth?",
+ "metaDescription": "An honest breakdown of what drives Michigan mineral rights value, from Antrim decline stage to acreage, without a made-up per-acre number.",
+ "heroLead": "Anyone who quotes you a flat dollar figure before knowing your well's production history is guessing, or worse, hoping you won't ask how they got there.",
+ "intro": [
+  "There's no single answer to what Michigan mineral rights are worth, and anyone who tells you otherwise without asking a single question about your tract is skipping the part of the job that actually matters. Value moves with production history, decline stage, commodity prices, and whether the acreage is even developed at all. Here's what actually drives the number, in plain terms."
+ ],
+ "sections": [
+  {
+   "heading": "Producing versus undeveloped, the biggest split",
+   "paragraphs": [
+    "If your minerals sit under an active well, there's real royalty history to work from, and that changes everything. Buyers can look at your monthly production and build a real projection of what's likely left. If your minerals are undeveloped, with no well ever drilled on the tract, value depends almost entirely on nearby drilling activity and lease interest, which in a lot of Michigan counties has been slow for years. Undeveloped acreage typically commands less than producing acreage because there's nothing concrete to project, just potential.",
+    "This one distinction explains more of the gap between offers than anything else. If you're comparing two numbers from two different buyers, make sure you're comparing apples to apples on which bucket your tract falls into."
+   ]
+  },
+  {
+   "heading": "Where the well sits on the Antrim decline curve",
+   "paragraphs": [
+    "Antrim Shale wells decline steeply in their first few years, then settle into a long, low-volume tail that can stretch on for decades. A well early in that curve, still throwing off strong monthly volumes, is worth more per dollar of current royalty than a well twenty years in in the shallow tail, even if the tail well still produces something every month. This is exactly why value is typically quoted against recent royalty checks rather than as a flat number, it has to account for how much runway is realistically left.",
+    "Owners sometimes assume a well that's been producing for decades is a sign of strength. In reality, longevity on an Antrim well usually means it's deep into the tail, producing a fraction of its early output, which weighs on value even though the well is technically still alive."
+   ]
+  },
+  {
+   "heading": "Commodity prices move the number too",
+   "paragraphs": [
+    "Gas prices swing, and Michigan Antrim production is overwhelmingly gas, so an offer made during a price dip can look meaningfully different from one made six months later when prices recover. This isn't a buyer being unfair, it's the price deck used in any projection shifting with the market. If you're not in a hurry, it's fair to ask a buyer how current prices are factoring into their number, and to understand that waiting doesn't guarantee a better price, it just trades one uncertainty for another."
+   ]
+  },
+  {
+   "heading": "Acreage, ownership fraction, and lease terms",
+   "paragraphs": [
+    "Your net mineral acres and your royalty fraction, typically inherited from an original lease, set the ceiling on what any given tract can produce. A larger fraction with a stronger royalty rate is worth more than a small sliver of the same well, all else equal. If you're unsure of your exact net mineral acreage, that's usually the first thing worth confirming, since it's the multiplier on everything else in the calculation."
+   ]
+  },
+  {
+   "heading": "County and position within the play",
+   "paragraphs": [
+    "Not every county in the Antrim trend looks the same. Some sit closer to the core of the play with denser well spacing and stronger historical production, while others sit on the flank with fewer wells and thinner history to draw from. Otsego and Antrim counties, for example, have some of the longest production histories in the trend, which gives buyers more data to work with than a county with only a handful of older wells.",
+    "This positional difference is one more reason a flat statewide number never makes sense. Two tracts of identical size in different counties can carry very different value depending on the well density and production history around them."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can you just tell me a price per acre?",
+   "answer": "Not honestly, no. Value depends on whether the acreage is producing, where the well sits on its decline curve, and current commodity prices, so any real number has to be built from your specific tract rather than a flat rate."
+  },
+  {
+   "question": "Is undeveloped acreage worth anything?",
+   "answer": "It can be, particularly in counties with active leasing or nearby drilling, but it's inherently more speculative than producing minerals and typically valued lower as a result."
+  },
+  {
+   "question": "Why do offers change over time on the same tract?",
+   "answer": "Commodity prices move, the well continues declining month to month, and buyer appetite shifts. An offer that was accurate six months ago may not reflect today's numbers."
+  },
+  {
+   "question": "Does a bigger royalty check always mean higher value?",
+   "answer": "Generally yes, but the decline stage matters just as much. A large check from a well early in its curve is worth more per dollar than the same check from a well deep into its tail with little runway left."
+  },
+  {
+   "question": "How do I know if my offer is realistic?",
+   "answer": "Get a second opinion. If multiple buyers land in a similar range after looking at your actual production history, that's a reasonable signal. A single unexplained number isn't enough to judge by."
+  }
+ ],
+ "wordCount": 890,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsmichigan-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

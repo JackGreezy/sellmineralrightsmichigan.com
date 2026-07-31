@@ -1,0 +1,59 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? Michigan Owner Guide",
+ "metaDescription": "Own mineral rights under Michigan land? Learn what that ownership actually includes, how it differs from surface land, and what it's worth to sell.",
+ "heroLead": "Owning the minerals under a piece of Michigan land is a different thing entirely from owning the land itself, and a lot of owners find that out the hard way when they try to explain it to somebody.",
+ "intro": [
+  "Mineral rights are ownership of whatever's below the surface, oil, gas, and in some cases other minerals, separate and distinct from ownership of the surface itself. In Michigan, especially across the Antrim Shale and Niagaran reef trend counties, it's common for the minerals to have been severed from the surface decades ago, sometimes by the original homesteader who sold the farm but kept the minerals, sometimes the reverse, sold the minerals and kept the land. That severance means today's surface owner and today's mineral owner are often two completely different people, sometimes never having met, connected only by a legal description at the county register of deeds.",
+  "If you own mineral rights, what you actually have is the right to explore for and produce oil and gas from that tract, or, more commonly, the right to lease those minerals to an operator who does the drilling and pays you a royalty on production. You don't own a piece of dirt you can walk on and call yours. You own a legal interest in whatever's underneath it, and that interest is bought, sold, leased, and inherited independently of the surface."
+ ],
+ "sections": [
+  {
+   "heading": "What Full Mineral Ownership Actually Includes",
+   "paragraphs": [
+    "Owning mineral rights outright, sometimes called owning the fee mineral estate, gives you the right to lease those minerals to an operator, negotiate lease terms including bonus payment and royalty rate, and receive royalty income once a well on your tract or unit produces. It also generally gives you the right to grant or withhold surface access for drilling if you happen to also own the surface, though in split-estate situations the surface owner typically has separate rights the mineral owner has to work around under Michigan law. Most Michigan mineral owners today aren't actively negotiating leases themselves; they inherited an interest already under lease, with an operator already producing, and their role is mostly collecting royalty checks and staying current with the operator."
+   ]
+  },
+  {
+   "heading": "How Michigan Mineral Ownership Usually Got Fragmented",
+   "paragraphs": [
+    "The Antrim boom of the eighties and nineties leased and drilled across enormous swaths of northern Michigan, and every one of those original mineral owners has since had decades to pass the interest down through wills, intestate succession, and probate. What started as one person's ownership of, say, 80 net mineral acres under a farm has often become a dozen or more heirs each holding a small fraction of that original interest. If you're trying to figure out exactly what you own, the county register of deeds in the county where the minerals sit is the authoritative source, not old family paperwork or what a relative told you at some point."
+   ]
+  },
+  {
+   "heading": "Selling a Mineral Interest",
+   "paragraphs": [
+    "Selling mineral rights means transferring your ownership interest permanently via a mineral deed, in exchange for a one-time payment instead of ongoing royalty checks. Value depends on whether the interest is currently producing, leased but undrilled, or non-producing, along with the specific well's decline trajectory if it's producing, and comparable recent activity if it's not. There's no flat statewide number per acre that applies across Michigan; a producing Antrim interest, an undrilled Niagaran-trend tract, and a dormant fringe-county interest are three very different valuations, and anyone quoting a single number without asking about your specific situation isn't doing real analysis.",
+    "You can also sell only part of your mineral interest, a percentage, or a term-limited royalty share, if you'd rather keep some ongoing exposure while raising cash on part of it. That flexibility is worth knowing about before assuming a sale has to be all-or-nothing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between owning mineral rights and owning the land?",
+   "answer": "Mineral rights are ownership of what's below the surface, oil and gas primarily. Surface rights are ownership of the land itself. In Michigan these are commonly severed and owned by two different people, especially on land that's been in a family for generations since the Antrim boom leased widely across the state."
+  },
+  {
+   "question": "How do I find out exactly what mineral rights I own in Michigan?",
+   "answer": "Start with the county register of deeds in the county where the minerals are located. That record shows the legal description and recorded ownership, which is more reliable than old family documents, especially after multiple generations of heirship."
+  },
+  {
+   "question": "Can I sell mineral rights without owning the surface land?",
+   "answer": "Yes. Mineral rights and surface rights are separate legal estates in Michigan, and mineral rights can be sold, leased, or inherited independently of whoever owns the surface above them."
+  },
+  {
+   "question": "Is there a standard price per acre for Michigan mineral rights?",
+   "answer": "No, and be wary of anyone quoting one without reviewing your specific interest. Value depends heavily on whether the interest is currently producing, leased but undrilled, or dormant, and on the specific well's production trend if applicable."
+  }
+ ],
+ "status": "written",
+ "wordCount": 856,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsmichigan-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

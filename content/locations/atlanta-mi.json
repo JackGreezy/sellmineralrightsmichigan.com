@@ -1,0 +1,53 @@
+{
+ "slug": "atlanta-mi",
+ "title": "Sell Mineral Rights in Atlanta, MI",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Montmorency",
+ "group": "Antrim Core",
+ "primaryKeyword": "sell mineral rights atlanta mi",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Atlanta, MI",
+ "metaDescription": "Atlanta, MI is the Montmorency County seat. Elk country with real Antrim Shale history and a lot of unclaimed heirship interests. Get a real look.",
+ "heroLead": "Atlanta bills itself the elk capital of Michigan, but underneath the state forest and farm ground around it sits mineral history from the Antrim boom that most owners here have never had explained to them.",
+ "intro": [
+  "Atlanta is the county seat of Montmorency County, a small town surrounded by state forest and known locally for its wild elk herd. The private farm and forest sections around town saw Antrim Shale leasing and, in places, drilling during the late 1980s and 1990s boom, and mineral ownership tied to that land is commonly split among heirs who inherited a fraction of a fraction of the original interest."
+ ],
+ "sections": [
+  {
+   "heading": "Register of deeds and a lot of unresolved heirship",
+   "paragraphs": [
+    "As the county seat, Atlanta is home to the Montmorency County register of deeds, which holds the recorded chain of title for the whole county. Given how much of the private land here has passed through generations without formal division, it's common for us to talk to an owner who knows they're entitled to something but doesn't know exactly what fraction or which well it's tied to.",
+    "That's a normal starting point. Pulling the probate record or deed at the county office usually clears it up."
+   ]
+  },
+  {
+   "heading": "What an Atlanta-area interest is worth now",
+   "paragraphs": [
+    "Where there's production tied to land near Atlanta, it's most likely a mature Antrim well decades past its early peak, producing modest, steady volumes. We check current statements and activity before quoting anything, and we're upfront if the honest number is modest given how far along the decline curve these wells sit."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Was the Atlanta, Montmorency County area part of the Antrim Shale boom?",
+   "answer": "Yes, the farm and forest sections around Atlanta saw leasing and drilling activity during the late 1980s and 1990s, consistent with the rest of Montmorency County's Antrim core history."
+  },
+  {
+   "question": "I know I inherited part of a mineral interest near Atlanta but not how much. How do I find out?",
+   "answer": "Start at the Montmorency County register of deeds in Atlanta and pull the probate record or deed transferring the interest to you, which should show your fractional share."
+  },
+  {
+   "question": "Why is a lot of land around Atlanta owned by the state forest instead of families?",
+   "answer": "Michigan has held large tracts of state forest land in this region for decades, but plenty of private farm and forest parcels remain scattered throughout, many still carrying mineral rights split off during earlier oil and gas leasing."
+  }
+ ],
+ "status": "written",
+ "wordCount": 432,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-atlanta-mi.jpg",
+  "alt": "Sell Mineral Rights in Atlanta, MI location",
+  "width": 1600,
+  "height": 1000
+ }
+}

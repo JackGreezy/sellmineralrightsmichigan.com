@@ -1,0 +1,80 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Your Michigan Royalty Statement",
+ "metaDescription": "A plain-English walkthrough of the Michigan royalty statement, from decimal interest to deductions, and what a declining number actually means.",
+ "heroLead": "A royalty statement is dense on purpose, packed with abbreviations nobody explains. Here's what each part actually tells you about your well.",
+ "intro": [
+  "Every month or quarter, operators send Antrim and other Michigan mineral owners a statement alongside the royalty check, and most owners glance at the total and toss the rest. That statement actually holds useful information, especially if you're trying to understand whether your well is holding steady or sliding down its decline curve. Here's how to read it."
+ ],
+ "sections": [
+  {
+   "heading": "The header: well name, decimal interest, and production month",
+   "paragraphs": [
+    "At the top you'll usually find the well name or number, your decimal interest, which is your fractional share of the well's total production, and the production month the statement covers, which often lags a month or two behind the check date. If you own interests in more than one well, each one typically gets its own line or its own section, so don't assume one number on the page covers everything you own.",
+    "Confirm the decimal interest here matches what's on your division order. If it's changed without explanation, that's worth a call to the operator."
+   ]
+  },
+  {
+   "heading": "Volume and price columns",
+   "paragraphs": [
+    "This section shows the gas or oil volume attributed to your interest for the month, along with the price per unit the operator received. Multiply the two and you get your gross value before deductions. Watching this line month over month, over a year or two, is the clearest way to see where your well sits on its decline curve, since Antrim wells settle into a long, gradual downward trend after their early years.",
+    "Price swings independently of the well itself, so a lower check some months reflects the market, not necessarily a failing well, while a steadily shrinking volume number reflects the well itself declining."
+   ]
+  },
+  {
+   "heading": "Deductions: severance tax and post-production costs",
+   "paragraphs": [
+    "Michigan levies a severance tax on oil and gas production, and that's typically deducted before your net payment is calculated, along with post-production costs like gathering, compression, or transportation depending on your lease terms. These deductions are standard and expected, but they're worth understanding since they explain why your net payment is meaningfully lower than the gross value line above it.",
+    "If deductions suddenly jump or a new line item appears that wasn't there before, it's fair to ask the operator's royalty department what changed."
+   ]
+  },
+  {
+   "heading": "What a declining statement actually tells you",
+   "paragraphs": [
+    "A steadily shrinking check isn't a sign something's wrong, it's the normal life of an Antrim well playing out. These wells decline sharply in their first several years, then settle into a long, low-volume tail. If you're watching your statements trend down year over year and wondering what that means for the value of your interest if you sold, that decline stage is exactly what a buyer factors into any offer, and it's worth keeping a few months of statements on hand if you ever want that conversation."
+   ]
+  },
+  {
+   "heading": "Keeping your own records straight",
+   "paragraphs": [
+    "It's worth holding onto statements for at least a few years rather than tossing them once the check clears. A run of statements shows a trend, which is more useful than any single month, whether you're tracking how your well is declining, checking that your decimal interest hasn't changed unexpectedly, or preparing for a future sale where a buyer wants production history.",
+    "If your statements come electronically, save copies somewhere you'll actually find them again, and if you inherited a mineral interest, ask whoever managed it before you whether old statements exist anywhere. They're useful even years after the fact."
+   ]
+  },
+  {
+   "heading": "When to question a statement",
+   "paragraphs": [
+    "Most discrepancies are minor and get resolved with a phone call to the operator's royalty department. But if your decimal interest changes without explanation, a deduction category appears that wasn't there before, or your payment stops entirely with no notice, it's worth asking directly rather than assuming it will sort itself out.",
+    "Operators generally want accurate records as much as you do, since an ownership dispute costs them more time than a quick clarifying call. Don't hesitate to ask."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my check amount change every month?",
+   "answer": "Both production volume and commodity price shift month to month, and your payment reflects both. Some months a price increase offsets a volume decline, and vice versa."
+  },
+  {
+   "question": "What if I stop receiving statements?",
+   "answer": "This can happen if the operator changed, if your interest was moved into suspense over a title question, or if the well was shut in. Contact the operator's royalty department directly to find out which applies."
+  },
+  {
+   "question": "Are the deductions on my statement normal?",
+   "answer": "Severance tax and reasonable post-production costs are standard across Michigan production. If deductions seem unusually high compared to prior months, it's reasonable to ask the operator for an explanation."
+  },
+  {
+   "question": "Can I use old royalty statements when getting an offer to sell?",
+   "answer": "Yes, and it's one of the most useful things you can hand a buyer, since real production history lets them build an honest projection instead of guessing."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsmichigan-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents You Need to Sell Michigan Mineral Rights",
+ "metaDescription": "The real paperwork list for selling Michigan mineral rights, including deed history, probate records, and what to do if you can't find any of it.",
+ "heroLead": "Nobody keeps a folder labeled mineral rights. Here's what to actually go dig up before you talk numbers with a buyer.",
+ "intro": [
+  "Selling mineral rights in Michigan isn't complicated, but it does move slower without the right paper. Most owners inherited their interest and never saw the original deed, so this list is meant to tell you what matters, what's optional, and what a title company can chase down on your own without you tearing the house apart looking for it."
+ ],
+ "sections": [
+  {
+   "heading": "The deed or the last recorded conveyance",
+   "paragraphs": [
+    "This is the document that severed the minerals from the surface, or the most recent deed that moved your fractional interest to you. If you've got it, great, it speeds things up. If you don't, a title examiner can pull it from the Register of Deeds in the county where the minerals sit, since Michigan county deed records go back well over a century in most of the Antrim counties.",
+    "What matters most is the legal description on that deed matching the tract a buyer or an operator has on file. Old descriptions written by section, town, and range sometimes don't line up cleanly with how a parcel gets referenced today, and that's usually a title company fix, not something you need to solve yourself.",
+    "If your interest passed through several conveyances over the years, a buyer or title examiner will want to see the whole chain, not a single link. Each deed in that chain has to trace cleanly from one owner to the next, so a gap anywhere along the way, an unrecorded transfer or a missing signature, is worth flagging early rather than discovering it mid-closing."
+   ]
+  },
+  {
+   "heading": "Probate and heirship paperwork",
+   "paragraphs": [
+    "If you inherited the minerals, whoever's buying wants to see how title passed to you. That means a death certificate for the prior owner, letters of authority or the probate order if the estate went through court, or an affidavit of heirship if it didn't. Michigan allows small estates and affidavit procedures for modest interests, which is common with mineral fractions that never got formally probated because nobody thought they were worth the filing fee.",
+    "If several siblings or cousins inherited together, each person's share needs to trace back cleanly. That doesn't mean everyone has to sell at once, but a buyer will ask who else holds a piece of the same tract."
+   ]
+  },
+  {
+   "heading": "Division orders and check stubs",
+   "paragraphs": [
+    "If the minerals are under a producing well, your most recent division order and a handful of royalty check stubs are worth more than almost anything else on this list. They confirm your decimal interest, show which operator is paying, and give a buyer real production history to work from instead of guessing. If you never receive a check because the tract isn't currently producing, that's fine too, it just changes how the interest gets valued.",
+    "Don't have a division order handy? A tax ID number or an operator name from an old letter is usually enough for someone to look the well up in Michigan's public well records."
+   ]
+  },
+  {
+   "heading": "Tax statements and current mailing information",
+   "paragraphs": [
+    "Most counties send a property tax statement for severed mineral interests, and that statement usually has the parcel number a title search needs. Keep it even if the amount owed is small. You'll also want your current mailing address and a copy of a photo ID ready for closing, since the deed transfer has to match your legal name exactly."
+   ]
+  },
+  {
+   "heading": "Lease copies, if you have them",
+   "paragraphs": [
+    "If your minerals are leased, a copy of the lease itself helps confirm the royalty rate and term you're working under, though it's not always required to sell. If you never received a copy or lost it years ago, the operator's landman file or the county Register of Deeds usually has a recorded version on file.",
+    "None of this paperwork needs to be perfect or complete before you start a conversation about selling. Bring what you have, and let a title examiner fill the gaps from the county record."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find any paperwork at all?",
+   "answer": "That's more common than not. A title examiner can rebuild most of this from county records and probate files without you producing a single document, though it may take a little longer to confirm your exact ownership share."
+  },
+  {
+   "question": "Do I need a lawyer to gather these documents?",
+   "answer": "Not usually for the gathering itself. Where an attorney helps is if the estate was never probated and heirship needs to be formally established, or if there's a title dispute among family members."
+  },
+  {
+   "question": "Is a tax parcel number the same as knowing exactly what I own?",
+   "answer": "No, it points to the tract but not always to your exact fractional share. That's why deed history and probate records matter, they establish the decimal interest and not merely the location."
+  },
+  {
+   "question": "What if my name is misspelled on an old deed?",
+   "answer": "It happens constantly with mineral records that are decades old. A minor discrepancy is usually cleared with an affidavit at closing rather than a full correction deed, though your title company will tell you which route fits your situation."
+  }
+ ],
+ "wordCount": 884,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsmichigan-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

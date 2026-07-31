@@ -1,0 +1,63 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Royalty Interests Explained - Michigan Mineral Owners",
+ "metaDescription": "Own a royalty interest tied to Michigan production? Learn what a royalty interest actually is, how checks get calculated, and what it's worth to sell.",
+ "heroLead": "Every quarter or month a check shows up with a bunch of numbers you don't fully understand, and somewhere in there is your actual royalty interest, if you can find it.",
+ "intro": [
+  "A royalty interest is your share of oil and gas production revenue, free of the costs of drilling and operating the well, in exchange for having leased your mineral rights to an operator. When a Michigan mineral owner signs a lease, they typically retain a royalty, commonly a fraction like 1/8th historically or higher on more modern leases, meaning the operator keeps the rest of production revenue to cover drilling costs, operating expenses, and profit, while the royalty owner gets their cut without having paid a dime toward getting the well drilled or keeping it running.",
+  "Most Michigan mineral owners today hold a royalty interest rather than actively negotiating leases, because the lease was already signed, sometimes decades ago by a parent or grandparent, and what got passed down is the ongoing right to royalty checks on whatever the well produces. Understanding what that royalty fraction is, how it's calculated against gross production, and whether deductions are being taken for post-production costs is the starting point for figuring out whether your checks look right, and for valuing the interest if you're thinking about selling."
+ ],
+ "sections": [
+  {
+   "heading": "How Royalty Checks Actually Get Calculated",
+   "paragraphs": [
+    "Your royalty check is your fractional share, say 1/8th or 3/16ths depending on your specific lease, multiplied by the gross value of production from the well or unit, sometimes reduced by post-production costs like gathering, compression, and transportation depending on how your specific lease was written. Two owners with the identical royalty fraction can see different net checks if one lease allows post-production deductions and the other doesn't. If your check seems low relative to what you understand the well's gross production to be, that deduction language in your original lease is usually the first place to look, not necessarily an error by the operator."
+   ]
+  },
+  {
+   "heading": "Why Royalty Fractions Vary So Much Across Michigan",
+   "paragraphs": [
+    "Leases signed during the height of the Antrim boom in the eighties and early nineties often carried lower royalty fractions than leases signed more recently, simply because lease terms across the industry have generally trended toward higher landowner royalties over time as competition for acreage increased. If your family's interest traces back to an original 1980s lease, don't assume your royalty fraction matches what a neighbor with a more recently signed lease receives, even on comparable production. The fraction is fixed at whatever the original lease specified and generally doesn't renegotiate itself upward just because market norms shifted since then."
+   ]
+  },
+  {
+   "heading": "Selling a Royalty Interest",
+   "paragraphs": [
+    "Selling a royalty interest means transferring your right to future production income for a lump sum today, and the valuation hinges on your specific royalty fraction, the well's current production and decline curve, and whether post-production deductions are being taken, since that affects your actual net income stream more than the headline fraction does. We pull your recent statements and the well's production history to build a defensible number, and we'll walk you through exactly how we got there rather than just handing you a figure and asking you to trust it.",
+    "If your royalty interest is tied to a mature Antrim well that's well into its decline, expect the valuation to reflect that trajectory honestly. A royalty interest on a well making a fraction of what it made fifteen years ago is worth a real number today, just not the number a naive calculation off historical peak production would suggest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What royalty fraction do most Michigan mineral owners have?",
+   "answer": "It varies significantly by when the lease was originally signed. Older Antrim-era leases from the 1980s and early 1990s often carry lower fractions than more recently negotiated leases. Check your original lease or division order for your specific fraction rather than assuming it matches a neighbor's."
+  },
+  {
+   "question": "Why are post-production costs deducted from my royalty check?",
+   "answer": "It depends on how your specific lease was written. Some leases allow the operator to deduct gathering, compression, and transportation costs before calculating your royalty; others don't. That language in your original lease determines whether your net check reflects gross or post-deduction production value."
+  },
+  {
+   "question": "How do I know my royalty check is calculated correctly?",
+   "answer": "Compare your royalty fraction and any deduction language in your lease against the gross production and deduction figures shown on your statement. If something doesn't add up, the operator's division order department can typically walk through the calculation with you."
+  },
+  {
+   "question": "What determines the sale value of a royalty interest?",
+   "answer": "Your specific royalty fraction, the well's current production level and decline trend, and whether post-production costs are being deducted. All three factor into what the interest realistically pays going forward, which is what drives a fair valuation."
+  },
+  {
+   "question": "Can I sell just part of my royalty interest?",
+   "answer": "Often yes, either a percentage of your fraction or a term-limited royalty share, letting you raise cash now while keeping some ongoing exposure. Ask us about structuring a partial sale if you don't want to give up the entire interest at once."
+  }
+ ],
+ "status": "written",
+ "wordCount": 876,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsmichigan-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Base';
+  font-weight: 400;
+    font-style: normal;
+  font-display: swap;
+    src: local('Satoshi Regular'),
+         url("/assets-f/fonts/ba05df63da2d2f.woff2") format('woff2'),
+         url("/assets-f/fonts/da95661e5838af.woff") format('woff');
+}
+@font-face {
+    font-family: 'Base';
+  font-weight: 700;
+    font-style: normal;
+  font-display: swap;
+    src: local('Satoshi Bold'),
+         url("/assets-f/fonts/76ebd4a6498faf.woff2") format('woff2'),
+         url("/assets-f/fonts/e93b7e55daa0c6.woff") format('woff');
+}
+@font-face {
+    font-family: 'Heading';
+  font-weight: 400;
+    font-style: normal;
+  font-display: swap;
+    src: local('Red Hat Display Regular'),
+         url("/assets-f/fonts/041924474b6133.woff2") format('woff2'),
+         url("/assets-f/fonts/4d5269ba65bfc6.woff") format('woff');
+}
+@font-face {
+    font-family: 'Heading';
+  font-weight: 600;
+    font-style: normal;
+  font-display: swap;
+    src: local('Red Hat Display SemiBold'),
+         url("/assets-f/fonts/ca79793fe011d3.woff2") format('woff2'),
+         url("/assets-f/fonts/8640701d5abc4a.woff") format('woff');
+}

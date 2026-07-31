@@ -1,0 +1,79 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Michigan Mineral Rights Get Appraised",
+ "metaDescription": "The methods buyers actually use to value Michigan mineral rights, from decline curve analysis to comparable sales, and why two appraisals rarely match.",
+ "heroLead": "Ask three buyers to appraise the same tract and you'll get three different numbers. That's not a scam, it's how mineral valuation actually works.",
+ "intro": [
+  "There's no MLS for mineral rights and no single accepted appraisal standard the way there is for a house. Instead, buyers lean on a handful of methods, weight them differently, and land on a number that reflects their own read of the well's future. Understanding those methods won't get you an exact price, but it will help you tell a serious offer from a lazy one."
+ ],
+ "sections": [
+  {
+   "heading": "Decline curve analysis",
+   "paragraphs": [
+    "For producing minerals, this is the method that carries the most weight. A buyer looks at monthly production history from the well, usually pulled from Michigan's public production records, and models how much gas or oil is likely left based on the decline pattern so far. Antrim wells in particular follow a well-documented curve: steep early decline, then a long, shallow tail that can run for years at low volume.",
+    "The value comes from projecting that remaining production forward, applying a price deck for gas or oil, and discounting future income back to today's dollars because a check you'll receive in year twelve is worth less today than a check you'll receive next month. Two buyers can run the same production history through slightly different price assumptions or discount rates and land on noticeably different numbers, and that's normal, not a red flag by itself."
+   ]
+  },
+  {
+   "heading": "Recent royalty income as a shortcut",
+   "paragraphs": [
+    "A faster, rougher method quotes an offer as a multiple of your trailing royalty income, usually averaged over recent months. It's less precise than a full decline curve model but it's quick, and it's the method most mailbox offers use because it doesn't require pulling well data at all. The multiple applied depends heavily on where the well sits on its decline curve, current commodity prices, and how much risk the buyer is pricing in.",
+    "If someone gives you a number without ever asking how your well is producing or how long it's been online, they're likely working off this shortcut, possibly with outdated assumptions."
+   ]
+  },
+  {
+   "heading": "Comparable sales, when they exist",
+   "paragraphs": [
+    "In areas with a lot of transaction activity, buyers sometimes reference recent sale prices for similar tracts nearby, similar to how a realtor comps a house. Michigan's mineral market doesn't have the transaction volume of a Permian Basin county, so true comparables are harder to come by, and they get weighted less than production-based methods for that reason."
+   ]
+  },
+  {
+   "heading": "Undeveloped minerals: a different calculation entirely",
+   "paragraphs": [
+    "Without production history, there's no decline curve to model. Value on undeveloped tracts leans on lease activity nearby, whether operators are actively drilling in the county, and general geological potential for the formation under your acreage. This is inherently more speculative, and offers on undeveloped minerals should reflect that uncertainty rather than promise a specific number as if it were as solid as a producing tract's appraisal."
+   ]
+  },
+  {
+   "heading": "How your own paperwork factors in",
+   "paragraphs": [
+    "The quality of the appraisal a buyer can offer you is only as good as the information they're working from. A recent division order or a stack of royalty statements lets a buyer run a real decline curve analysis instead of leaning on the rougher shortcut method. If your minerals are undeveloped, knowing your net mineral acres and the county your tract sits in still helps, even without production history to anchor the number.",
+    "This is why a serious buyer asks questions before naming a figure, and why an unsolicited letter with a flat number attached almost never reflects real appraisal work. If you want a more accurate number, come prepared with whatever documentation you have, even if it's incomplete."
+   ]
+  },
+  {
+   "heading": "Getting a second opinion",
+   "paragraphs": [
+    "Since no single appraisal method produces a perfect answer, comparing offers from more than one buyer is the closest thing to a real check on value that most owners have access to. If two or three buyers, working independently from your actual production history, land in a similar range, that's a reasonable signal the number reflects your tract fairly.",
+    "If the numbers vary wildly, ask each buyer to walk through their assumptions rather than picking the highest one by default. A number built on outdated production data or an aggressive price deck isn't necessarily the most accurate one just because it's the biggest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I get a formal appraisal on my own before selling?",
+   "answer": "You can hire a petroleum engineer or reservoir consultant to run a decline curve analysis independently, though for smaller fractional interests the cost sometimes outweighs the benefit. Getting multiple buyer offers accomplishes something similar at no cost to you."
+  },
+  {
+   "question": "Why did two buyers give me such different numbers?",
+   "answer": "Different price decks, different discount rates, different assumptions about how much longer the well produces. It doesn't automatically mean one buyer is being dishonest, though it's always worth asking each one to explain their number."
+  },
+  {
+   "question": "Does the appraisal change if gas prices move?",
+   "answer": "Yes. Value on producing minerals is tied to the price deck used in the projection, so an offer made during a price dip can look different from one made when prices are higher, even on the exact same well."
+  },
+  {
+   "question": "Is a higher offer always the more accurate one?",
+   "answer": "Not necessarily. Some offers are priced high to get a signature quickly and may not reflect a careful look at the well's decline stage. It's worth asking how the number was calculated regardless of whether it's high or low."
+  }
+ ],
+ "wordCount": 936,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsmichigan-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

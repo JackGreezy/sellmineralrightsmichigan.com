@@ -1,0 +1,79 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Michigan Mineral Deed Transfer Explained",
+ "metaDescription": "How mineral deed transfers work in Michigan, from legal description problems to recording with the county, explained without the legal jargon.",
+ "heroLead": "A mineral deed looks like any other deed until you get to the legal description, and that's where most Michigan transfers actually get held up.",
+ "intro": [
+  "Transferring mineral rights in Michigan runs through the same county recording system as any other real property transfer, but the details that trip people up are specific to minerals: severed estates, fractional interests, and legal descriptions written before anybody imagined a computer would ever need to read them. Here's what actually happens when a mineral interest changes hands."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually does",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the oil, gas, and mineral estate under a described tract, separate from the surface. In Michigan, mineral and surface ownership were commonly split, or severed, decades ago when a farmer sold the land but kept the minerals, or the other way around. Once severed, the mineral estate has its own chain of title that has to be tracked independently of who owns the surface today.",
+    "The deed itself is short, usually a page or two, but it has to correctly identify the grantor, the grantee, the legal description of the tract, and the fraction or percentage of the mineral interest being conveyed if it's not the full interest."
+   ]
+  },
+  {
+   "heading": "Legal descriptions and why they cause problems",
+   "paragraphs": [
+    "Michigan mineral tracts are typically described by section, township, and range, sometimes going back to descriptions written in the 1800s or early 1900s when the land was first platted. Over generations, as those tracts got divided among heirs or partially sold off, the descriptions in the county record can get inconsistent, missing an acreage figure, referencing a since-corrected survey, or splitting a fraction in a way that's hard to reconcile against a current deed.",
+    "A title examiner's job before any transfer is to trace that description back through every conveyance to confirm exactly what's being sold matches exactly what's on record. When this gets skipped, you end up with title gaps that surface later, sometimes when an operator tries to divisionize a new well and finds the ownership doesn't add up to one hundred percent."
+   ]
+  },
+  {
+   "heading": "Recording with the county",
+   "paragraphs": [
+    "Once signed and notarized, the deed gets recorded with the Register of Deeds in the county where the minerals sit. Recording is what makes the transfer effective against future claims and puts the new owner on the public record. Michigan counties in the Antrim trend, like Otsego, Antrim, Kalkaska, and Montmorency, each maintain their own recording office, and a deed has to be recorded in the correct county for the tract it covers.",
+    "If your interest spans multiple counties, which happens with larger inherited tracts, you may need separate deeds recorded in each county rather than one document covering everything."
+   ]
+  },
+  {
+   "heading": "After the deed is recorded",
+   "paragraphs": [
+    "If the minerals are under a producing well, the new owner needs to notify the operator with a copy of the recorded deed so future royalty payments and division orders get redirected. This doesn't happen automatically just because the deed is on file at the county, operators typically require their own notification and paperwork before updating their payment records."
+   ]
+  },
+  {
+   "heading": "Special situations that slow things down",
+   "paragraphs": [
+    "A few scenarios come up often enough with Michigan mineral transfers that they're worth knowing ahead of time. If the interest is owned by an estate that never closed probate, the deed can't move until that's resolved or an affidavit of heirship covers the gap. If multiple heirs own a tract as tenants in common, each one's fractional share generally needs its own signature, even if only one heir is selling their portion.",
+    "Life estates, old mortgages that were never released, and unreleased prior leases can also show up on decades-old Michigan mineral tracts. None of these are usually deal-killers, they just add a step, and a title examiner's job is to spot them before closing rather than after."
+   ]
+  },
+  {
+   "heading": "What a buyer typically covers",
+   "paragraphs": [
+    "In most direct-sale transactions, the buyer prepares the deed, handles the title search, and covers the recording fee with the county. Your job as the seller is mainly to review the document for accuracy, sign, and get it notarized. It's still worth reading it carefully rather than assuming the paperwork is boilerplate you can skip past."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does a mineral deed take to record?",
+   "answer": "Most Michigan counties process recordings within a few business days to a couple of weeks, depending on the office and how they're currently handling volume, whether that's in person, by mail, or electronically."
+  },
+  {
+   "question": "Do I need a title company for a mineral deed transfer?",
+   "answer": "It's not legally required, but a title company or attorney catches legal description problems and confirms clean title before recording, which prevents disputes down the road, especially with older or inherited interests."
+  },
+  {
+   "question": "What if the legal description on the old deed doesn't match today's records?",
+   "answer": "This is common with older Michigan mineral tracts and is usually resolved with a corrective deed or a title opinion that reconciles the descriptions rather than starting over."
+  },
+  {
+   "question": "Can I transfer just part of my mineral interest?",
+   "answer": "Yes, a deed can convey a specific fraction or percentage rather than your full interest, and this is common when owners sell part of an inherited tract while keeping the rest."
+  }
+ ],
+ "wordCount": 891,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsmichigan-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

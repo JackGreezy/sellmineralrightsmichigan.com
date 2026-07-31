@@ -1,0 +1,68 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Trust-Owned Mineral Rights - Selling in Michigan",
+ "metaDescription": "Managing a Michigan mineral interest held in a family trust? Here's what trustees need to confirm before selling, from trust authority to beneficiary duties.",
+ "heroLead": "The trust document names you trustee, the trust holds a Michigan mineral interest, and now you're the one deciding what to do with an asset you didn't choose to own.",
+ "intro": [
+  "Family trusts pick up mineral interests the same way estates do, usually because the original owner set up the trust to manage land and other assets for the benefit of children or grandchildren, and a small Antrim or Niagaran interest got folded in along with everything else. Now, as trustee, you're on the hook for managing it prudently, which for a lot of trustees means dealing with an asset class they've never handled before: royalty statements, division orders, decline curves, none of it resembling the stocks and real estate that make up the rest of the trust portfolio.",
+  "Trustees have a fiduciary duty to manage trust assets for the beneficiaries' benefit, and that duty applies to a mineral interest the same as anything else in the trust. Sometimes that means holding a well-performing interest for the income stream it provides. Sometimes it means recognizing that a small, declining, or non-producing interest is more trouble than it's worth to manage and selling makes more sense for the beneficiaries than holding an asset nobody's actively watching."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming Trustee Authority to Sell",
+   "paragraphs": [
+    "Before selling, check the trust document for language specifically addressing the trustee's power to sell or manage mineral, oil, and gas interests. Most well-drafted trusts give the trustee broad authority over trust property, but some older or more restrictive trust documents limit what can be sold without beneficiary consent or court approval. If the trust is silent or ambiguous on mineral interests specifically, that's worth clarifying with the trust's attorney before proceeding, since selling without clear authority can expose a trustee to a beneficiary dispute down the road."
+   ]
+  },
+  {
+   "heading": "Fiduciary Duty and Getting a Defensible Valuation",
+   "paragraphs": [
+    "A trustee's decision to sell needs to hold up if a beneficiary ever questions it, which means getting a documented, production-based valuation matters more here than in a straightforward personal sale. We provide a written valuation grounded in recent royalty history, the well's decline trajectory, and current operator status, which gives you something concrete to show beneficiaries or a probate court if the trust's administration is ever reviewed. That documentation is part of what protects a trustee acting in good faith, separate from whatever number the sale ultimately lands on."
+   ]
+  },
+  {
+   "heading": "Multiple Beneficiaries, One Decision",
+   "paragraphs": [
+    "Unlike an outright inherited interest where each heir can decide individually, a trust-owned mineral interest is typically one asset with one decision point, the trustee's, even when there are multiple beneficiaries with different preferences. Some beneficiaries may want the trust to hold the interest for ongoing income; others may prefer the trust liquidate it and distribute or reinvest the proceeds. As trustee, your job is weighing what's prudent for the trust as a whole and the terms of the trust document, not necessarily what any single beneficiary personally prefers, though keeping beneficiaries informed of the decision and the reasoning behind it is generally good practice regardless of what the trust requires.",
+    "If the interest is small, declining, or non-producing, the administrative cost of managing it as a trust asset, tracking 1099s, division order updates, annual reporting, often outweighs what it contributes to the trust, which is a legitimate factor in deciding to sell separate from the raw valuation number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does the trust document need to specifically mention mineral rights to sell them?",
+   "answer": "Not always, most trusts with broad property management powers cover mineral interests implicitly, but some older or more restrictive trusts limit sales without beneficiary consent. Check the specific trust language with the trust's attorney before proceeding."
+  },
+  {
+   "question": "Do all beneficiaries need to approve a trustee's decision to sell?",
+   "answer": "Generally no, if the trustee has clear authority under the trust document, though keeping beneficiaries informed is good practice. If the trust requires consent for asset sales, that requirement needs to be followed regardless of the trustee's general authority."
+  },
+  {
+   "question": "Why does a trustee need a formal valuation instead of just accepting an offer?",
+   "answer": "A trustee's fiduciary duty means decisions need to be defensible if ever questioned by beneficiaries or a court. A documented, production-based valuation protects the trustee by showing the sale price was grounded in real data, not an arbitrary or convenient number."
+  },
+  {
+   "question": "What happens to sale proceeds from a trust-owned mineral interest?",
+   "answer": "Proceeds stay in the trust and are distributed or reinvested according to the trust's terms, the same as any other trust asset sale. That's governed by the trust document, not by the mineral sale itself."
+  },
+  {
+   "question": "Should a successor trustee re-check an older valuation before selling?",
+   "answer": "Yes. Production, decline rate, and operator status all change over time, so a valuation from several years ago shouldn't be relied on for a current sale decision. Get a fresh, production-based number before finalizing anything on behalf of the trust."
+  },
+  {
+   "question": "Can a co-trustee block a sale the other trustee wants to make?",
+   "answer": "If the trust names co-trustees, most trust documents require joint agreement on major asset decisions unless the document specifically grants one trustee independent authority. Check the trust's language on co-trustee decision-making before assuming either trustee can act alone on a mineral sale."
+  }
+ ],
+ "status": "written",
+ "wordCount": 891,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsmichigan-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

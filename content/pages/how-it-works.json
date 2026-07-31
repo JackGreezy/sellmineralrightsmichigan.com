@@ -1,0 +1,90 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Your Michigan Mineral Rights Works",
+ "metaDescription": "The step-by-step process of selling Michigan mineral rights to a direct buyer, from first contact to a recorded deed, explained plainly.",
+ "heroLead": "Four steps, no runaround. Here's exactly what happens from the first phone call to the deed getting recorded at the county.",
+ "intro": [
+  "Selling mineral rights doesn't have to be a mystery, and it shouldn't feel like signing something you don't fully understand. Here's the process laid out plainly, so you know what to expect before you ever pick up the phone."
+ ],
+ "sections": [
+  {
+   "heading": "Start with what you know",
+   "paragraphs": [
+    "Tell us the county, whether you're receiving royalty checks, and any paperwork you can find, a deed, a division order, an old lease. If you inherited the interest and aren't sure exactly what you own, that's normal and we can help work through it using county records rather than requiring you to arrive with everything figured out."
+   ]
+  },
+  {
+   "heading": "We confirm ownership and production",
+   "paragraphs": [
+    "We verify your ownership against the county deed and probate record, and if the tract is producing, we pull the well's production history to understand where it sits on its decline curve. This is the step that separates a real offer from a mailbox guess, since it's built on your actual tract instead of an average pulled from a mailing list.",
+    "For older or inherited interests, this step sometimes uncovers a title question, like an heir who was never formally probated onto the deed. When that happens, we'll walk you through what's needed to clear it rather than leaving you to figure it out alone."
+   ]
+  },
+  {
+   "heading": "You get a number and an explanation",
+   "paragraphs": [
+    "We'll give you a figure along with how we calculated it, whether that's a multiple applied to recent royalty income and adjusted for decline stage, or a valuation based on nearby lease activity for undeveloped acreage. Take your time deciding. There's no deadline attached, and comparing it against another buyer's number is entirely fine with us."
+   ]
+  },
+  {
+   "heading": "Closing gets the deed recorded",
+   "paragraphs": [
+    "If you decide to move forward, we prepare a mineral deed reflecting exactly the interest being sold, whether that's your full ownership or a portion of it. Once signed and notarized, the deed gets recorded with the Register of Deeds in the county where the minerals sit, and if the tract is producing, we handle notifying the operator so future royalty payments redirect properly. Most straightforward sales close within a couple of weeks."
+   ]
+  },
+  {
+   "heading": "What we handle behind the scenes",
+   "paragraphs": [
+    "A lot of the work in a mineral sale happens away from you, tracing the legal description back through prior conveyances, confirming the county record matches what's being sold, and coordinating with the operator on the division order if your tract is producing. You don't need to manage any of that yourself, we handle it and keep you updated at each step rather than leaving you to chase down county offices on your own.",
+    "If a title question comes up along the way, like an heir who was never formally probated onto the deed, we'll explain exactly what's needed to fix it rather than leaving you guessing."
+   ]
+  },
+  {
+   "heading": "What producing versus undeveloped changes",
+   "paragraphs": [
+    "The process looks slightly different depending on whether your minerals are currently producing. For producing tracts, your division order and royalty history give us real data to work from right away, which usually means a faster path to a confirmed number. For undeveloped tracts, we lean on county lease activity and drilling records, and we're upfront that the valuation carries more uncertainty since there's no production history behind it yet.",
+    "Either way, the underlying steps stay the same: confirm ownership, build a number, explain it clearly, and only move to closing once you're ready."
+   ]
+  },
+  {
+   "heading": "Questions along the way",
+   "paragraphs": [
+    "You're free to ask questions at any point in the process, before you send anything, after you've received a number, or right up until closing. We'd rather slow down and explain something clearly than have you sign a deed you're unsure about. This isn't a one-shot pitch, it's a process you can pause or walk away from at any step if it stops making sense for you."
+   ]
+  },
+  {
+   "heading": "After the sale closes",
+   "paragraphs": [
+    "Once the deed is recorded, our involvement doesn't disappear. If a royalty check goes to the wrong address for a month or two while the operator updates their records, or a document is needed later for your tax filing, reach out and we'll help sort it out. A closed deal shouldn't mean you're on your own if something needs follow-up."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take?",
+   "answer": "For minerals with clean, confirmed title, a couple of weeks from first contact to closing is typical. Interests with a title question, like an unresolved estate, can take longer while that gets sorted."
+  },
+  {
+   "question": "Do I need an attorney for any of this?",
+   "answer": "Not required for most straightforward sales, though if title is unclear or you simply want a second set of eyes on the deed, that's a reasonable step to take before closing."
+  },
+  {
+   "question": "What if I change my mind partway through?",
+   "answer": "Nothing is final until you sign the deed. If you decide not to move forward at any point before that, there's no obligation to continue."
+  },
+  {
+   "question": "Will I need to be present at closing?",
+   "answer": "Typically not in person. Most mineral deed closings are handled by mail or electronically, with the deed notarized wherever is convenient for you."
+  }
+ ],
+ "wordCount": 892,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsmichigan-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

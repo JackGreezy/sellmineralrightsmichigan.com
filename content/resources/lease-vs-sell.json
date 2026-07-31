@@ -1,0 +1,71 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Michigan Mineral Rights: The Real Tradeoffs",
+ "metaDescription": "Should you lease or sell your Michigan mineral rights? An honest look at Antrim decline curves, bonus payments, and what each path actually pays out.",
+ "heroLead": "Every mineral owner in the Antrim trend eventually asks the same question. Lease it and wait, or sell it and be done. There's no universal right answer, just tradeoffs.",
+ "intro": [
+  "Leasing and selling solve different problems. A lease keeps you in the game for whatever the well produces over its life, paid out a little at a time, with the risk and the upside both spread over years. A sale gets you a lump sum now, based on what a buyer thinks that future income stream is worth today, discounted for the fact that gas wells decline and nobody can promise what year fifteen looks like. Here's how to think through which one fits your situation."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually gets you",
+   "paragraphs": [
+    "If your minerals are undeveloped, a lease usually comes with an upfront bonus payment per acre plus a royalty percentage on anything produced later, if anything ever is. That's the trade: cash now is small, but you keep the long-term upside if a well gets drilled and performs well. The catch is that a lot of Michigan mineral owners have been leased for decades without a single well ever going in on their specific tract, which means the bonus was the only money that ever showed up.",
+    "If you're already receiving royalties under an existing Antrim lease, there's often nothing to renegotiate unless the lease term is expiring or an operator wants to extend it, in which case you may have a little leverage on bonus or royalty terms for a new lease."
+   ]
+  },
+  {
+   "heading": "What selling actually gets you",
+   "paragraphs": [
+    "Selling converts your mineral interest, whether it's currently producing royalty income or sitting undeveloped, into one payment now. On producing tracts, that number is typically quoted as a multiple of recent monthly royalty income, adjusted for the well's decline stage, because a well six years into an Antrim decline curve is worth less per dollar of current royalty than a well that just came online. On undeveloped tracts, the number leans more on lease activity and drilling interest nearby, which in a lot of Michigan counties has been quiet for years, so don't expect an undeveloped fraction to command what a producing one does.",
+    "The tradeoff is real: once it's sold, you're out of any future upside, including a price spike, a workover that boosts production, or new drilling nearby. You're also out of any future downside, which matters more than owners think once a well is fifteen or twenty years into its life."
+   ]
+  },
+  {
+   "heading": "The Antrim decline curve changes the math",
+   "paragraphs": [
+    "Antrim Shale wells are known for a particular production pattern: a steep initial decline followed by a long, low-volume tail that can run for decades. That tail is real income, but it's also small and shrinking, and it makes the case for selling stronger the further along a well is in its life, because you're trading a long stretch of modest monthly checks for one number today rather than betting on the tail holding up.",
+    "On the flip side, if a well is early in its life or a new well was recently permitted nearby, the case for holding and collecting royalty income for a while longer gets stronger, since you're closer to the productive part of the curve.",
+    "There's no set year where selling suddenly makes more sense than holding, it's a gradual shift, and it's worth looking at your own trailing royalty statements to see roughly where your well sits before deciding either way."
+   ]
+  },
+  {
+   "heading": "Questions worth asking yourself",
+   "paragraphs": [
+    "Do you need the cash now for something specific, or are you comfortable waiting on smaller monthly checks that could run for years or could taper off faster than expected? Is the interest spread across multiple heirs who'd rather split one payment than manage decades of small royalty checks between them? Is the tract producing at all, or has it been sitting undeveloped with no lease activity for years? None of these have a universal answer, but they're the ones that actually decide which direction makes sense for your situation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease part of my minerals and sell the rest?",
+   "answer": "Yes. Owners with multiple tracts, or a fractional interest split among family, sometimes lease one piece and sell another depending on how each tract is producing."
+  },
+  {
+   "question": "If I'm already leased, can I still sell?",
+   "answer": "Yes. Selling a leased mineral interest is common, the buyer simply steps into your position under the existing lease and receives future royalty payments in your place."
+  },
+  {
+   "question": "Does selling mean giving up the mineral rights forever?",
+   "answer": "Yes, a mineral deed is a permanent transfer of ownership, unlike a lease which typically has a term and reverts back if drilling doesn't happen."
+  },
+  {
+   "question": "Which pays more, leasing or selling?",
+   "answer": "It depends entirely on how the well performs after the decision is made, which nobody can know in advance. Selling locks in a known number today, leasing bets on an unknown future."
+  },
+  {
+   "question": "Does an existing lease affect what a sale is worth?",
+   "answer": "Yes, an active lease with royalty history gives a buyer real production data to work from, which generally supports a more grounded valuation than an undeveloped tract with no lease at all."
+  }
+ ],
+ "wordCount": 889,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsmichigan-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained | Michigan Mineral Owners",
+ "metaDescription": "What a Michigan division order actually says, why the decimal interest matters more than the acreage, and what to check before you sign one.",
+ "heroLead": "A division order shows up in the mail, asks for a signature, and most Michigan mineral owners sign it without reading past the top line. That's the mistake.",
+ "intro": [
+  "If you own minerals under a producing well in the Antrim trend or anywhere else in the Michigan Basin, sooner or later an operator sends you a division order. It's not the lease. It's not the deed. It's the document that tells the operator's accounting department how much of the well's revenue is yours and where to send the check. Get comfortable with what's on that page before you mail it back, because once it's signed, the operator treats it as your confirmation that the numbers are correct."
+ ],
+ "sections": [
+  {
+   "heading": "What the decimal interest actually means",
+   "paragraphs": [
+    "Every division order carries a decimal interest, something like 0.00184532. That number is your share of the well's production, calculated from your net mineral acres divided by the total spacing unit acreage, multiplied by your royalty fraction. It looks small because spacing units in Michigan can run 40, 80, or 160 acres, and you're one owner among however many heirs, co-tenants, or original allottees still hold a piece of that old farm parcel.",
+    "The decimal is the whole ballgame. If it's wrong by even a little, you're getting shorted every month for as long as that well produces. Compare it against your last deed or your prior division order if you have one, and if the acreage the operator lists for your tract doesn't match your title records, don't sign until someone explains the gap."
+   ]
+  },
+  {
+   "heading": "Why Michigan title gets messy here",
+   "paragraphs": [
+    "A lot of Antrim-era minerals trace back to farm severances from the 1930s through the 1980s, then passed through probate a generation or two without anyone updating the county record. By the time a division order shows up, the decimal interest the operator calculated has to account for every heir, every prior conveyance, and sometimes a life estate nobody remembers signing. Operators pull this from the Register of Deeds records in the county where the minerals sit, and old handwritten legal descriptions don't always match up cleanly with modern survey language.",
+    "That's the single biggest reason division orders get held up or come back with the wrong decimal. If your name is on the order but a sibling, cousin, or your late parent's estate hasn't been cleared through probate, expect the operator to hold your share in suspense until title is straightened out."
+   ]
+  },
+  {
+   "heading": "Suspense, pooling, and the fine print",
+   "paragraphs": [
+    "Read the bottom of the form. Most Michigan division orders include language about pooling or unitization, meaning your interest gets combined with neighboring tracts to form the spacing unit the well actually drains. That's standard and it's how Antrim wells have always been produced, but you want to see the unit description match what you were told when the well was permitted.",
+    "You'll also see a suspense clause, which lets the operator withhold payment if there's a title defect, a missing signature from another heir, or a dispute over the decimal. If your check has stopped or never started, suspense is usually why, and it's worth a call to the operator's division order department to find out exactly what document they're waiting on."
+   ]
+  },
+  {
+   "heading": "If you're getting ready to sell",
+   "paragraphs": [
+    "Buyers ask for your most recent division order before they'll put a number in front of you, because it confirms the decimal interest is real and current. If you've got one, dig it out. If you don't, or if it's been years since the well was re-divisioned after other heirs sold out, that's not a dealbreaker, it just means whoever makes you an offer has to verify ownership through the county record first, which takes a little longer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators won't release payment until it's signed, though Michigan law generally doesn't let an operator refuse payment forever over an unsigned order once your ownership is otherwise confirmed. Still, sign a correct one promptly so your checks aren't held in suspense."
+  },
+  {
+   "question": "What if the decimal interest looks wrong?",
+   "answer": "Call the operator's division order analyst before you sign anything. Have your deed or prior order in hand and ask them to walk through how they calculated your share. Errors happen more often than you'd think, especially on older Antrim units with multiple heirs."
+  },
+  {
+   "question": "Does signing a division order affect my ability to sell?",
+   "answer": "No. A division order just confirms your payment share on existing production. You can still sell your mineral interest afterward, and a signed, current division order actually makes the sale go faster because it backs up your ownership claim."
+  },
+  {
+   "question": "Why did my division order change after my parent passed away?",
+   "answer": "Once probate closes and title moves to the heirs, the operator has to re-run the decimal interest to reflect the new ownership split. Each heir typically gets their own division order for their fractional share going forward."
+  },
+  {
+   "question": "Can an operator lower my decimal without telling me?",
+   "answer": "Not properly. Any change to your decimal interest should come with a new division order and an explanation, usually because additional acreage was added to the unit, additional owners were found in the title, or a prior calculation was corrected."
+  }
+ ],
+ "wordCount": 900,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsmichigan-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

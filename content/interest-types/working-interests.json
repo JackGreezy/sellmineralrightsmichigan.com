@@ -1,0 +1,59 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Working Interests Explained - Michigan Oil & Gas",
+ "metaDescription": "Own a working interest in a Michigan well and tired of covering operating costs? Learn how WI differs from royalty and what it's worth to sell.",
+ "heroLead": "A royalty check just shows up. A working interest bills you first, and that difference catches a lot of Michigan owners off guard.",
+ "intro": [
+  "A working interest is fundamentally different from a royalty interest, and the difference matters a lot if you're trying to figure out what you actually own. Royalty owners collect a share of production revenue and never pay a dime toward drilling or operating costs. Working interest owners, by contrast, own a share of the well itself, which means they're on the hook for a proportional share of drilling costs, operating expenses, plugging liability, and every other cost tied to that well, in exchange for a proportional share of production revenue after expenses. It's ownership with real financial exposure attached, not passive income.",
+  "Working interests in Michigan often trace back to owners who were part of the original drilling deal, sometimes a small independent operator, a landman, or an investor who bought into a well when it was drilled decades ago, and that interest got passed down through inheritance the same way a royalty or mineral interest does. If you inherited what you thought was a simple royalty check and it turns out to be a working interest, you may have discovered that along with occasional revenue checks, you're also occasionally billed for your share of costs, workovers, plugging expenses, and other operating items that a royalty owner never sees."
+ ],
+ "sections": [
+  {
+   "heading": "The Real Difference: Costs Alongside Income",
+   "paragraphs": [
+    "A working interest owner shares in both the upside and the downside of a well's economics. When the well is producing well and costs are low, that can mean a bigger net check than an equivalent royalty interest would provide, since there's no operator taking their share off the top before you get paid. But when costs spike, a major workover, a compliance issue, eventual plugging and abandonment, the working interest owner gets billed their proportional share, sometimes at inconvenient times with little warning. On a mature Antrim well decades into decline, plugging liability down the road is a real, non-trivial cost that a working interest owner needs to account for, since Michigan requires wells to be properly plugged when they stop producing, and that cost falls on working interest owners, not royalty owners."
+   ]
+  },
+  {
+   "heading": "Why Owners Often Want Out of Small Working Interests",
+   "paragraphs": [
+    "A small fractional working interest inherited from a relative can be more headache than it's worth. You're getting periodic joint interest billing statements for your share of operating costs, sometimes owing money in a given month rather than receiving it, and carrying long-term exposure to plugging liability on a well that's well into its decline. Unless you're actively involved in the operation and want that exposure, a lot of inherited working interest owners find they'd rather convert the interest into a clean lump sum and be done with ongoing cost exposure entirely, especially on aging Michigan wells where the plugging bill eventually comes due regardless of how small your fraction is."
+   ]
+  },
+  {
+   "heading": "Selling a Working Interest",
+   "paragraphs": [
+    "Selling a working interest is more involved than selling a royalty or mineral interest because the buyer is taking on both future revenue and future cost exposure, including eventual plugging liability. That means valuation accounts for the well's remaining production, projected operating costs, and the timeline until plugging becomes necessary, netted against expected revenue. It's a more complete financial picture than a simple royalty valuation, and we walk through all of it with you so you understand exactly what's being priced and why.",
+    "If you've inherited a working interest and aren't sure whether it's actually a working interest or a royalty interest, check your statements: if you've ever received a bill for your share of costs rather than only checks, or if your paperwork uses language like operating agreement or joint interest billing, that's a working interest, not a royalty."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I own a working interest or a royalty interest?",
+   "answer": "If you've ever received a bill for your share of drilling or operating costs, rather than only revenue checks, or your paperwork references an operating agreement or joint interest billing, that's a working interest. Royalty owners never pay operating costs."
+  },
+  {
+   "question": "Am I responsible for plugging costs on a working interest?",
+   "answer": "Yes, working interest owners share proportionally in plugging and abandonment costs when a well stops producing, since Michigan requires wells to be properly plugged. That's a real future liability worth factoring into whether you want to keep the interest."
+  },
+  {
+   "question": "Can I sell a working interest even with pending liability attached?",
+   "answer": "Yes. A buyer factors expected future costs, including eventual plugging liability, into the valuation alongside expected remaining revenue, so it's still a sellable interest, just valued on a fuller financial picture than a royalty interest."
+  },
+  {
+   "question": "Why did I get billed instead of paid on my working interest?",
+   "answer": "Working interest owners share in operating costs as well as revenue, so in months where costs like workovers or compliance expenses exceed production revenue, owners can receive a bill rather than a check. That's normal for working interests and different from how royalty ownership works."
+  }
+ ],
+ "status": "written",
+ "wordCount": 876,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsmichigan-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

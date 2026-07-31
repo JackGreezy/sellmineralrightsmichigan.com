@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sell Mineral Rights Michigan">
+  <rect width="64" height="64" rx="12" fill="#123c77"/>
+  <path d="M8 18c9 0 9-8 18-8s9 8 18 8 9-8 12-8v12c-7 0-7 8-16 8s-9-8-18-8-9 8-14 8z" fill="#77d7ef"/>
+  <path d="M14 41h36M20 49h24" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>

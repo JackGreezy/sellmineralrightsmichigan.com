@@ -1,0 +1,30 @@
+{
+  "domain": "sellmineralrightsmichigan.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmichigan.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmichigan.com",
+  "reference": "https://www.aquatech.com/",
+  "refhost": "www-aquatech-com",
+  "biz": "Sell Mineral Rights Michigan",
+  "businessName": "Sell Mineral Rights Michigan",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "MICHIGAN",
+  "city": "Lansing",
+  "state": "Michigan",
+  "region": "Lansing, the Antrim trend, northern Michigan, and mineral-owning counties statewide",
+  "phone": "517-555-1040",
+  "email": "michigan@sellmineralrightsmichigan.com",
+  "address": "124 W Michigan Ave, Lansing, MI 48933",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/basins/mineral-rights-basins-antrim-shale-sellmineralrightsmichigan-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmichigan.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Michigan Guides", "/resources"],
+    ["Michigan Areas", "/locations"],
+    ["Request Review", "/contact#contact-form"]
+  ],
+  "cta": ["Request a Michigan Mineral Review", "/contact#contact-form"]
+}

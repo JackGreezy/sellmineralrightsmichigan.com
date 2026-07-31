@@ -1,0 +1,80 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Michigan Mineral Rights Offer",
+ "metaDescription": "The tactics behind lowball mailbox offers on Michigan mineral rights, and the specific questions that expose a number that won't hold up.",
+ "heroLead": "A form letter with a deadline and a big round number is designed to get a signature before you ask a single question. Here's how to see through it.",
+ "intro": [
+  "If you own minerals in the Antrim trend, you've probably gotten one of these letters: a flat offer, no mention of your actual well, and a deadline pushing you to sign fast. Some of it's legitimate, some of it's a lowball built on the assumption you won't check. Here's what separates the two, and the specific things worth asking before you sign anything."
+ ],
+ "sections": [
+  {
+   "heading": "The unsolicited flat number",
+   "paragraphs": [
+    "If a letter names a dollar figure before ever asking about your decimal interest, your well's production history, or how long it's been on decline, that number wasn't built from your tract. It's a generic offer sent to a whole mailing list pulled from county tax records, designed to catch whoever signs first. Sometimes it's close to fair, sometimes it's well under what a careful appraisal would land on, but there's no way to know without asking how it was calculated.",
+    "A legitimate buyer can tell you exactly what data went into their number: recent royalty checks, the well's decline stage, current gas prices. If they can't or won't, that's your answer."
+   ]
+  },
+  {
+   "heading": "Artificial urgency",
+   "paragraphs": [
+    "Deadlines, expiring offers, and language like act now show up because urgency works against you, not for you. There's rarely a real reason a mineral offer has to be accepted within a week. Your ownership isn't going anywhere, the well isn't drying up in the next ten days, and a legitimate buyer's number shouldn't evaporate just because you took time to get a second opinion.",
+    "If anything, a buyer pushing hard for a fast signature before you can compare offers is often a sign they know the number wouldn't survive that comparison."
+   ]
+  },
+  {
+   "heading": "Vague or missing math",
+   "paragraphs": [
+    "Ask how the offer was calculated. A straight answer references your production history, a multiple applied to recent royalty income, or a decline curve projection. A dodge sounds like industry standard rate or we just know the market. Anyone offering to buy your minerals should be comfortable walking you through their reasoning, because the math behind mineral valuation isn't a trade secret, it's just underwritten by data most owners don't think to ask for.",
+    "This applies just as much to a high offer as a low one. An unexplained number, whatever direction it leans, is worth pressure-testing before you sign."
+   ]
+  },
+  {
+   "heading": "What actually protects you",
+   "paragraphs": [
+    "Get more than one offer before you decide anything. Ask each buyer the same questions: how they calculated the number, whether they looked at your actual well's production, and what assumptions they used on price and decline. Compare the answers themselves, beyond just the totals. A fair offer holds up to that scrutiny. A lowball usually falls apart the moment you start asking specifics."
+   ]
+  },
+  {
+   "heading": "Watch for legal description tricks",
+   "paragraphs": [
+    "Some mailbox letters describe your tract with a fraction that's slightly off from what you actually own, sometimes rounded down, sometimes referencing an outdated acreage figure. It's easy to skim past this line and focus on the dollar amount, but the fraction listed is what the offer is actually based on. Compare it against your deed or your last division order before signing anything, and flag any mismatch before you sign, not after.",
+    "This isn't always deliberate, sometimes it's just outdated county data, but it's worth catching either way since it directly affects whether the number in front of you actually reflects what you own."
+   ]
+  },
+  {
+   "heading": "When a low number is actually honest",
+   "paragraphs": [
+    "Not every modest offer is a lowball. A well that's twenty years into its Antrim decline curve, producing a fraction of its early output, legitimately supports a smaller number than a well that just started producing. The difference between a lowball and an honest low offer isn't the size of the number, it's whether the buyer can explain how they got there using your actual production.",
+    "If a buyer walks you through the decline stage, the pricing assumptions, and the math, and the number still comes in modest, that's not a red flag by itself. Judge the process behind it, beyond the total alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are all unsolicited mailbox offers scams?",
+   "answer": "No, some are legitimate, just generic and untailored to your specific tract. The problem isn't that they're unsolicited, it's that the number often wasn't built from your actual production or ownership details."
+  },
+  {
+   "question": "How many offers should I get before deciding?",
+   "answer": "Two or three is usually enough to tell whether a number is in a reasonable range. If they cluster close together after each buyer reviews your actual production, that's a useful signal."
+  },
+  {
+   "question": "What if the offer letter says it's final and non-negotiable?",
+   "answer": "Treat that the same as a deadline, it's a pressure tactic. A real buyer's number is theirs to adjust if you bring new information, like a more recent royalty statement, to the table."
+  },
+  {
+   "question": "Is a higher offer automatically the honest one?",
+   "answer": "Not necessarily. A number that's unusually high with no explanation can be a bait tactic too, sometimes revised downward once you're further into the process. Ask for the math either way."
+  }
+ ],
+ "wordCount": 886,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsmichigan-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

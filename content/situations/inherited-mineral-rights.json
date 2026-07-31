@@ -1,0 +1,60 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights in Michigan - What to Do",
+ "metaDescription": "Just inherited Antrim or Niagaran mineral rights in Michigan and not sure what you own or what it's worth? Here's how to figure it out before deciding anything.",
+ "heroLead": "You inherited a mineral interest, a stack of old paperwork, and zero explanation, and now you're the one who has to figure out what any of it means.",
+ "intro": [
+  "It happens the same way in almost every Michigan family. Somebody passes, the estate gets settled, and buried in the paperwork is a mineral interest nobody talked about at Thanksgiving, tied to land up in Antrim or Otsego or Kalkaska County that the family hasn't had a physical connection to in decades. Maybe there's a check history. Maybe the checks stopped years ago and nobody knows why. Maybe there's nothing but an old lease document and a legal description that doesn't mean much to anyone who isn't a title examiner.",
+  "You've got three real options once you're holding an inherited interest: keep it and start managing it yourself, sell it and take the cash, or ignore it and let the paperwork keep piling up until the next generation inherits the same confusion. None of those is automatically the right call. It depends on what the interest is actually producing, how many other heirs you're splitting it with, and whether you want to be the person fielding division order updates and 1099s for a fraction of a well you've never seen."
+ ],
+ "sections": [
+  {
+   "heading": "First, Figure Out What You Actually Inherited",
+   "paragraphs": [
+    "Before deciding anything, get the estate's probate record and any recorded deed or assignment tied to the mineral interest, and check it against the county register of deeds in the Michigan county where the minerals sit. This tells you the legal description, your exact fractional share if there are multiple heirs, and whether the interest was ever formally transferred into your name with the operator. A surprising number of inherited interests are still sitting in a deceased relative's name with the operator years after probate closed, which means checks aren't being issued to anyone, or worse, are getting flagged and routed to state unclaimed property."
+   ]
+  },
+  {
+   "heading": "Multiple Heirs Complicates Everything",
+   "paragraphs": [
+    "If you're one of four siblings who each inherited a quarter of the same interest, you've now got four separate, smaller fractional shares where there used to be one. Each heir has to be updated individually with the operator, each gets their own 1099, and if one sibling wants to sell and three want to keep it, that's an awkward conversation nobody scheduled. Some families sell the whole interest together and split proceeds cleanly through the estate, which sidesteps the ongoing coordination problem entirely. Others let each heir decide individually, since a mineral interest can typically be sold in fractional pieces without every co-owner agreeing. Neither path is wrong, but it's worth deciding as a family rather than defaulting into confusion."
+   ]
+  },
+  {
+   "heading": "Weighing Keep vs. Sell",
+   "paragraphs": [
+    "If the well is a strong, actively managed Antrim or Niagaran unit still throwing off decent checks, and you don't mind the small ongoing paperwork, keeping it can make sense, especially if you view it as a long-term family asset rather than a hassle. If the well is deep into decline, the checks are trivial, or you'd genuinely rather have a lump sum than a decades-long trickle from an asset tied to land you've never set foot on, selling converts an inherited obligation into a clean, one-time number. There's no moral high ground either direction. It's a financial and lifestyle decision, and the honest starting point is knowing what the interest is actually worth right now, not guessing based on what it made in some good year decades back.",
+    "One more thing worth saying plainly: if you inherited an interest and someone shows up fast with an unsolicited offer before you've even confirmed the title, slow down. That doesn't mean the offer is bad, but a fair buyer will wait while you confirm what you actually own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to formally transfer the mineral interest into my name?",
+   "answer": "Yes, if you want to receive royalty checks and eventually sell cleanly. The operator needs a recorded deed or probate document showing you as the current owner, or checks may stop, get held, or route to state unclaimed property under the previous owner's name."
+  },
+  {
+   "question": "How do I know if the inherited interest is worth anything?",
+   "answer": "Pull recent royalty history if there is any, confirm the well's operator and current production status, and get a straight valuation before assuming anything. Some inherited Michigan interests are dry paperwork, others are quietly still producing and were simply never actively managed by the previous owner."
+  },
+  {
+   "question": "Can I sell my share if my siblings want to keep theirs?",
+   "answer": "Generally yes. A fractional mineral interest can typically be sold independently of what co-owning heirs decide to do with their own shares, though it's worth confirming there's no restriction in the specific deed or estate documents first."
+  },
+  {
+   "question": "What if the mineral interest was never mentioned in probate?",
+   "answer": "That happens more than people expect, especially with small legacy interests that got overlooked. If you suspect there's an unaddressed mineral interest tied to a deceased relative's Michigan land, a title search at the county register of deeds is the place to start confirming it."
+  }
+ ],
+ "status": "written",
+ "wordCount": 880,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsmichigan-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

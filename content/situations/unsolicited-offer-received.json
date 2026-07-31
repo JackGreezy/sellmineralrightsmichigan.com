@@ -1,0 +1,68 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got a Mailbox Offer on Michigan Minerals? Check It First",
+ "metaDescription": "Received an unsolicited letter offering to buy your Michigan mineral rights? Get a second, straight opinion before signing anything back.",
+ "heroLead": "A letter shows up out of nowhere offering to buy your mineral rights, with a number, a deadline, and a return envelope already stamped, and something about it feels off.",
+ "intro": [
+  "Mailbox offers are a real business model in Michigan mineral country, and they're not automatically a scam, but they're built to work in the buyer's favor, not yours. Somebody pulls county records, identifies mineral owners tied to a producing or leased tract, and blankets them with letters offering a flat number, sometimes with language designed to feel urgent, sign by this date, offer subject to change, act now. The company sending it usually knows more about your interest's actual production than you do, because they've done the same research on hundreds of owners before mailing that letter.",
+  "That imbalance is the whole game. They know the well's production. You probably don't, or don't know how to read it if you have the statements sitting in a drawer. The honest move before signing anything back is getting an independent read on what the interest is actually worth, from someone who isn't the party trying to buy it from you at a number they picked."
+ ],
+ "sections": [
+  {
+   "heading": "Why the First Number Is Rarely the Best Number",
+   "paragraphs": [
+    "Mailbox offer companies typically build in significant margin because they're buying blind, at scale, off a form letter, without you ever asking a follow-up question. That's the business model, cast a wide net, offer a number well below what careful analysis would support, and bank on some percentage of recipients just signing because the process feels easy and the deadline feels real. Some owners who sign are fine with that trade-off, easy over optimal. But you should at least know the gap exists before deciding it's a trade-off you're willing to make."
+   ]
+  },
+  {
+   "heading": "What to Actually Check Before Responding",
+   "paragraphs": [
+    "Pull your own recent royalty statements and look at the multi-year trend instead of only the last check. Confirm who's currently operating the well and whether there's been any recent activity, permits, workovers, new units nearby, that might affect value. Check the legal description on the offer letter against your actual documented interest, because mailbox offers sometimes misstate the fraction or the tract, banking on owners not catching the discrepancy. And get a second opinion on value from a buyer who isn't the one who sent you the letter, so you're comparing their number against something independent rather than deciding in a vacuum."
+   ]
+  },
+  {
+   "heading": "There's No Real Deadline",
+   "paragraphs": [
+    "Legitimate mineral value doesn't expire on a Tuesday because a letter says so. If an offer includes pressure language, respond by this date or the offer is withdrawn, that's a sales tactic, not a reflection of the market moving. A real buyer will still want your interest next week or next month if the well's production hasn't changed. Taking a few days to check the offer against an independent valuation costs you nothing and protects you from signing away an interest for less than it's worth because a deadline felt real.",
+    "We'll look at any offer letter you've received and tell you straight whether it's in a reasonable range or well under what the interest supports, based on the well's actual production, not what the letter claims. If our number comes in close to theirs, we'll say so. If it's meaningfully different, you'll know before you sign anything back."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are mailbox offers on mineral rights usually scams?",
+   "answer": "Not usually outright scams, but they're typically built with significant margin in the buyer's favor, sent at scale to owners who may not know how to independently value their own interest. The offer itself may be legitimate, just lower than a well-informed owner would accept."
+  },
+  {
+   "question": "Should I respond before the deadline on the offer letter?",
+   "answer": "No. Deadlines on unsolicited mineral offers are almost always a sales tactic, not a reflection of real market timing. Take time to check the offer against an independent valuation before responding to anything."
+  },
+  {
+   "question": "How do I know if an unsolicited offer is a fair price?",
+   "answer": "Get a second opinion based on your recent royalty statements and the well's actual production trend from a source other than the company that sent the offer. Comparing two independent numbers tells you far more than evaluating one offer in isolation."
+  },
+  {
+   "question": "What if the offer letter has my mineral fraction wrong?",
+   "answer": "That happens, since these letters are often generated from incomplete or outdated county records. Confirm the legal description and your fractional interest against the actual county record before responding to any offer that references your interest."
+  },
+  {
+   "question": "Is it rude or risky to just not respond to a mailbox offer?",
+   "answer": "Not at all. There's no obligation to respond to an unsolicited letter, and ignoring it costs you nothing. If a buyer's terms sound reasonable once you've checked their number independently, you can always reach back out on your own timeline."
+  },
+  {
+   "question": "Do I need a lawyer before signing a mineral rights purchase agreement?",
+   "answer": "Not always for a straightforward sale, but it's a reasonable step if the acreage is complex, the offer is large, or the paperwork uses language you don't fully understand. A quick attorney review costs little compared to signing away an interest you didn't fully grasp."
+  }
+ ],
+ "status": "written",
+ "wordCount": 891,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsmichigan-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

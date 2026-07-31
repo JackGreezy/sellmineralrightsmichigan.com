@@ -1,0 +1,59 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "ORRI Explained - Overriding Royalty in Michigan",
+ "metaDescription": "Own an overriding royalty interest tied to a Michigan lease? Learn how ORRI differs from a mineral royalty and what happens to it when a lease ends.",
+ "heroLead": "An overriding royalty interest looks like a mineral royalty on your statement, but it's actually tied to something entirely different underneath it, and that difference matters if you're thinking about selling.",
+ "intro": [
+  "An overriding royalty interest, ORRI, is a royalty carved out of the working interest under a specific lease, not out of the mineral estate itself. That's the key distinction most owners miss. Where a mineral owner's royalty exists as long as the minerals exist and gets renegotiated every time a new lease is signed, an ORRI is tied to one specific lease and typically expires when that lease terminates, whether it lapses, gets released, or the well is plugged and abandoned. In Michigan, ORRIs commonly show up when a landman, geologist, or small operator who helped put a deal together retained a small royalty carve-out as part of their compensation, rather than taking a cash fee, or when an operator assigned a portion of the working interest's royalty to a third party as part of a farm-out or sale.",
+  "If you inherited or acquired an ORRI, it's worth understanding clearly that your interest lives and dies with the specific lease it's attached to. That's different from a mineral or NPRI interest, which typically survives lease terminations and can be re-leased indefinitely by whoever holds the underlying mineral estate."
+ ],
+ "sections": [
+  {
+   "heading": "Why ORRIs Are Tied to the Lease, Not the Minerals",
+   "paragraphs": [
+    "Because an ORRI is carved from the working interest rather than the mineral estate, it only exists as long as the lease creating it stays in effect. If the well the ORRI is attached to stops producing and the lease terminates under its own terms, or the operator releases the lease, the ORRI typically terminates along with it, with no automatic renewal the way a mineral owner's royalty resets on the next lease. This is the single most important thing to understand about ORRI value: you're not valuing a permanent claim on the minerals, you're valuing a royalty stream tied to the remaining life of one specific well and lease."
+   ]
+  },
+  {
+   "heading": "Valuing an ORRI in a Mature Michigan Play",
+   "paragraphs": [
+    "Because ORRI value is capped by the remaining productive life of the specific well, valuation leans heavily on that well's current decline trajectory and how much production is realistically left before the lease naturally winds down. On a mature Antrim well decades into its decline, that remaining life might be modest, which puts a ceiling on what an ORRI tied to it is worth relative to a mineral interest that could theoretically be re-leased and redeveloped after this well's life ends. This isn't a knock on ORRI value, it's just a structural fact that any honest valuation has to account for rather than pricing an ORRI as if it were permanent like a mineral interest."
+   ]
+  },
+  {
+   "heading": "Selling an ORRI",
+   "paragraphs": [
+    "ORRIs transfer by assignment rather than a mineral deed, and buyers need to see the original instrument creating the override to confirm exactly what lease it's tied to and what percentage it carries. We pull the well's current production and compare it against the remaining term or expected life of the underlying lease to arrive at a fair number, and we'll tell you plainly if an ORRI's remaining value is limited because the well it's attached to is well into decline. That's more honest than pricing it as though the interest has decades of upside left when the structural reality says otherwise.",
+    "If you're not sure whether your interest is an ORRI, an NPRI, or a straight mineral royalty, the original instrument creating it will say. Terms like override, working interest carve-out, or assignment of royalty are the language to look for, versus a mineral deed or royalty deed language for the other interest types."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does an overriding royalty interest last forever like a mineral interest?",
+   "answer": "No. An ORRI is tied to a specific lease and typically terminates when that lease ends, whether through natural expiration, release, or plugging of the well. A mineral or NPRI interest, by contrast, generally survives lease terminations and can be re-leased."
+  },
+  {
+   "question": "How do I know if I own an ORRI versus a mineral royalty?",
+   "answer": "Check the original instrument that created your interest. Language referencing an override, a carve-out from the working interest, or an assignment tied to a specific lease indicates an ORRI, versus a mineral deed or royalty deed for other interest types."
+  },
+  {
+   "question": "Why is my ORRI worth less than a similar-sized mineral interest?",
+   "answer": "Because its value is capped by the remaining productive life of the specific well and lease it's tied to, rather than the potentially indefinite life of the underlying mineral estate. On a mature, declining well, that remaining life, and therefore the ORRI's value, is more limited."
+  },
+  {
+   "question": "Can I sell an ORRI even if it might expire soon?",
+   "answer": "Yes, it's still a sellable asset, priced against the well's remaining expected production life. A fair valuation accounts for that remaining life directly rather than pretending the interest is permanent."
+  }
+ ],
+ "status": "written",
+ "wordCount": 857,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsmichigan-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

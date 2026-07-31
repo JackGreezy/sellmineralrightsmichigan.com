@@ -1,0 +1,140 @@
+{
+  "_": "This voice belongs only to sellmineralrightsmichigan.com. It is a Michigan mineral production ledger: measured, plainspoken, and grounded in Antrim biogenic gas decline, old farm conveyances, fractional heir ownership, division orders, county legal descriptions, statement-month reconciliation, undeveloped acreage uncertainty, and a written owner decision. It is not a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Michigan mineral production ledger",
+    "domain_lock": "sellmineralrightsmichigan.com",
+    "reusable": false,
+    "cadence": "locate the Michigan tract, reconstruct the ownership fraction, reconcile the paid decimal, read the Antrim decline, separate developed from undeveloped evidence, write the offer assumptions, preserve the owner file",
+    "lexicon": ["Antrim trend", "biogenic gas", "decline tail", "statement month", "paid decimal", "fractional heir interest", "county legal description", "owner file"],
+    "avoid": ["first-person singular narration", "generic national-buyer copy", "flat mailbox pricing", "guaranteed drilling", "instant valuation claims", "fabricated testimonials", "reusable voice pack"]
+  },
+  "scrub": [
+    ["\\bI['’]m\\b", "Sell Mineral Rights Michigan is"],
+    ["\\bI['’]ve\\b", "Sell Mineral Rights Michigan has"],
+    ["\\bI['’]ll\\b", "Sell Mineral Rights Michigan will"],
+    ["\\bI['’]d\\b", "Sell Mineral Rights Michigan would"],
+    ["\\bmyself\\b", "directly"],
+    ["\\bmy\\b", "the Michigan review desk's"],
+    ["\\bme\\b", "the Michigan review desk"],
+    ["\\bI\\b", "Sell Mineral Rights Michigan"]
+  ],
+  "question_scrub": [
+    ["\\bHow do Sell Mineral Rights Michigan\\b", "How do you"],
+    ["\\bDoes Sell Mineral Rights Michigan\\b", "Do you"],
+    ["\\bCan Sell Mineral Rights Michigan\\b", "Can you"],
+    ["\\bWhat if Sell Mineral Rights Michigan\\b", "What if you"],
+    ["\\bIs Sell Mineral Rights Michigan\\b", "Are you"],
+    ["\\bWill Sell Mineral Rights Michigan\\b", "Will you"],
+    ["\\bShould Sell Mineral Rights Michigan\\b", "Should you"],
+    ["\\bthe Michigan review desk['’]s\\b", "your"],
+    ["\\bthe Michigan review desk\\b", "you"],
+    ["\\bSell Mineral Rights Michigan\\b", "you"]
+  ],
+  "heroes": [
+    ["Sell Mineral Rights in Michigan", "A Michigan mineral review should connect the county legal description, ownership fraction, producing or undeveloped status, paid decimal, Antrim decline evidence, written terms, and recording plan."],
+    ["Read the Well Before Comparing the Offer", "Antrim gas can decline quickly and then settle into a long production tail. Several statement months and the actual paid decimal matter more than a flat mailbox number."],
+    ["Untangle the Farm Conveyance and Heir Fraction", "Old deeds, probate records, reservations, leases, and division orders should describe the same Michigan tract before a partial or full interest is priced."],
+    ["Separate Production From Nearby Activity", "A royalty statement proves current paid production. Leases, permits, and nearby wells can add context without becoming guaranteed future income."]
+  ],
+  "copy": {
+    "home_eyebrow": "MICHIGAN MINERAL PRODUCTION LEDGER",
+    "home_title": "Sell Mineral Rights in Michigan",
+    "home_meta": "Review Michigan mineral rights through the county legal description, ownership fraction, paid decimal, Antrim production curve, written offer assumptions, and recording plan.",
+    "home_intro_title": "Put the Michigan Tract and the Check on the Same Ledger",
+    "home_intro": "A useful Michigan mineral review keeps the source deed, legal description, reserved estate, heir fraction, lease, division order, statement months, production decline, undeveloped evidence, and written terms in one owner file.",
+    "home_about_2": "Antrim gas is biogenic and its wells commonly move from a sharper early decline into a long, low tail. A twenty-year producer and a recently completed well should not receive the same shortcut multiple.",
+    "home_about_3": "Michigan ownership often follows former farm tracts through reservations, probate, split conveyances, and fractional heir interests. The price should follow the interest that can actually be documented and conveyed.",
+    "home_situations_title": "Begin With the Owner Situation",
+    "home_situations_body": "Inheritance, probate, split family ownership, a mailbox offer, a producing check, or quiet acreage determines which record deserves attention first.",
+    "home_interests_title": "Name the Interest Before Pricing It",
+    "home_interests_body": "Minerals, royalties, overrides, working interests, and surface rights transfer different powers and require different deed language.",
+    "home_basins_title": "Read the Antrim Trend After the Tract Is Located",
+    "home_basins": "County, township, range, section, legal description, ownership fraction, lease, unit, well, and statement months establish the file before decline evidence is compared.",
+    "home_basins_body": "County, township, range, section, legal description, ownership fraction, lease, unit, well, and statement months establish the file before decline evidence is compared.",
+    "home_resources_title": "Build the Michigan Owner File",
+    "home_resources_body": "Deeds, probate papers, leases, division orders, royalty statements, operator records, and written offers answer separate parts of the decision.",
+    "home_locations_title": "Michigan Coverage by County Record",
+    "home_locations_body": "The review follows documented private mineral interests through the Antrim trend and mineral-owning counties across Michigan.",
+    "home_investing_title": "Underwrite the Paid Decimal and Decline Tail",
+    "home_investing": "Production history, realized pricing, taxes, deductions, adjustments, downtime, ownership fraction, title expense, operator concentration, and liquidity belong in the investment case.",
+    "home_exchange_title": "Keep Exchange Timing Separate From Michigan Title Work",
+    "home_exchange": "A qualified intermediary and independent tax counsel should assess potential exchange treatment before closing or receipt of proceeds while Michigan curative work follows its own dated checklist.",
+    "hero_cta": "Request a Michigan Mineral Review",
+    "index_tagline": "Use the {title} record to connect the owner question to the Michigan legal description, ownership fraction, paid decimal, production evidence, written terms, and next documented step.",
+    "detail_cta_title": "Put This Michigan Interest on the Owner Ledger",
+    "detail_cta_body": "Share the Michigan county, owner name, interest type, producing status, and records already available. Do not submit bank credentials, government identification numbers, or original documents.",
+    "detail_followup": "Carry this topic back to the same tract, legal description, ownership fraction, paid decimal, production record, undeveloped evidence, and written terms.",
+    "faq_heading": "Questions From the Michigan Owner File",
+    "about_title": "A Michigan Mineral Buyer Built Around the Production Record",
+    "about_story_title": "The County Description Locates the Interest",
+    "about_story_body": "County, township, range, section, acreage, reservation language, estate type, and ownership fraction define the Michigan interest under review.",
+    "about_scope_title": "The Paid Decimal Needs a Documentary Source",
+    "about_scope_body": "Lease royalty, unit participation, division orders, volumes, price, taxes, deductions, adjustments, and suspense should explain the amount shown on the owner statement.",
+    "about_terms_title": "The Antrim Decline Needs Its Own Reading",
+    "about_terms_body": "A long biogenic-gas tail is evidence, not a promise. Several statement months and the well history should support the production case.",
+    "about_roles_title": "Undeveloped Acreage Uses a Different Evidence Stack",
+    "about_roles_body": "Leases, permits, nearby wells, operator activity, formations, and title risk can inform a range without becoming guaranteed future development.",
+    "about_close_title": "The Owner Copy Matches the Recording",
+    "about_close_body": "The offer, agreement, deed, legal description, retained rights, settlement record, funding confirmation, and county recording should describe the same fraction.",
+    "contact_title": "Request a Michigan Mineral Record Review",
+    "contact_intro": "Share the Michigan county, owner name, interest type, producing status, and the decision that needs a clearer answer. The review can start with the records already available.",
+    "contact_form_title": "Start With the Michigan Record in Hand",
+    "contact_form_body": "A deed, royalty statement, division order, lease, probate paper, or legal description can identify the next useful check.",
+    "footer_tagline": "Tract located. Fraction reconstructed. Decimal reconciled. Decline read. Terms written. Recording matched.",
+    "privacy": "Sell Mineral Rights Michigan uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Michigan Tract Is Not in This Owner File",
+    "nf_body": "Return to owner situations, interest types, Antrim records, Michigan guides, area files, or the mineral-review form.",
+    "nf_cta": "Return to the Michigan Owner Desk"
+  },
+  "about_blocks": [
+    ["Locate the Michigan Tract", "County, township, range, section, acreage, legal description, reservation language, estate type, and ownership fraction establish the interest under review."],
+    ["Reconstruct the Ownership Fraction", "Recorded deeds, probate files, trusts, family conveyances, and division orders should lead to the same owner fraction before an offer is compared."],
+    ["Reconcile the Paid Decimal", "Lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and several statement months should explain the paid line."],
+    ["Read the Antrim Decline", "Producing wells, historical volumes, downtime, realized prices, operator records, and the long biogenic-gas tail are recorded as evidence with dates and sources."],
+    ["Separate Undeveloped Evidence", "Leases, permits, nearby wells, operator activity, formation targets, and title expense can support a range without being presented as guaranteed drilling."],
+    ["Match the Michigan Recording", "The offer, agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract and fraction."]
+  ],
+  "slug_ui": {
+    "faq_kicker": "MICHIGAN LEDGER CHECK",
+    "faq_heading": "Resolve the Record Question Before Comparing the Number",
+    "faq_intro": "Each answer points back to a Michigan legal description, owner fraction, paid decimal, statement month, well record, or written term that can be checked.",
+    "related_kicker": "CONNECTED OWNER RECORDS",
+    "related_heading": "Carry the Same Tract Into the Next Review",
+    "related_intro": "Keep the legal description, ownership fraction, paid decimal, production stage, and open evidence question from {item} visible while reviewing these {taxonomy} records.",
+    "related_action": "Open the Complete Michigan Owner Index"
+  },
+  "taxonomy_enrichment": {
+    "locations": [
+      ["Anchor {name} to the County Record", "A Michigan location page should lead back to a real tract record. The working file identifies the county, township, range, section, legal description, acreage, mineral reservation, estate type, ownership fraction, and the deed, probate file, or trust instrument that supports the present ownership claim."],
+      ["Connect Local Production to the Actual Interest", "Antrim, Niagaran, Dundee, Trenton-Black River, and other Michigan production evidence varies by county and formation. Operator names, well records, unit boundaries, statement months, paid decimals, downtime, and recent volumes should be checked for the documented interest instead of assumed from a nearby place name."],
+      ["Keep the Local Review in Writing", "The owner copy for {name} should retain the source deed, legal description, ownership reconstruction, statement evidence, written offer assumptions, retained-rights language, settlement record, and recording reference. That sequence lets the location guide support a transaction without pretending every parcel in the area has the same production or value."]
+    ],
+    "investing": [
+      ["Locate {name} on the Michigan Owner Record", "A Michigan mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, products, deductions, taxes, producing wells, operator, statement months, and title assumptions still open."],
+      ["Read the Antrim Production Stage", "Antrim biogenic-gas wells can move from dewatering and early production into a mature, long decline tail. Several statement months, historical volumes, downtime, realized pricing, and the present operator should support the base case rather than one unusually large or small check."],
+      ["Separate Developed and Undeveloped Evidence", "A current royalty statement is direct cash-flow evidence. Nearby leases, permits, units, wells, and operator activity can add context for undeveloped acreage without becoming guaranteed drilling, future reserves, or a promised royalty stream."],
+      ["Reconstruct the Conveyable Fraction", "{name} still depends on the estate described in the recorded Michigan chain. The investment file should identify the legal description, acquired fraction, reservations, depth or formation limits, present payor, suspense status, and unresolved probate, trust, or heirship issue."],
+      ["Stress the Paid Decimal Against Actual Statements", "The review should compare several statement months rather than treating one check as normal. Gas, oil, and natural-gas-liquids volumes, price, taxes, deductions, prior-period adjustments, downtime, and suspense releases can move independently and change the apparent cash yield."],
+      ["Write the Downside Case Before the Upside Case", "A disciplined Michigan mineral model tests lower volumes, weaker realized pricing, longer downtime, higher title expense, operator concentration, delayed development, and limited resale liquidity before giving weight to upside activity. The downside case should identify which assumption changes the value conclusion first."],
+      ["Set a Review Date for Every Material Assumption", "Production, operator activity, unit records, statement deductions, title status, and market liquidity can change on different schedules. The owner ledger assigns a source date and a future review date to each material assumption so the investment case can be updated from records instead of memory."],
+      ["Reconcile the Investment Memo to the Recorded Asset", "Before a Michigan mineral package is approved, the investment memo, acquisition agreement, deed, legal description, acquired fraction, retained rights, title exceptions, funding record, and post-closing owner copy should describe the same asset. Any difference is resolved in writing before the yield case is treated as final."]
+    ],
+    "exchange-1031": [
+      ["Place {name} on the Exchange Calendar", "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a Michigan mineral sale closes or proceeds are received. The file identifies the selling owner or entity, property description, expected proceeds, target closing date, statutory deadlines, and proposed replacement property."],
+      ["Keep Michigan Curative Work and Federal Timing Distinct", "Deed work, probate, heirship, trusts, corrective instruments, payor records, and county recording can move on a different schedule from exchange deadlines. Each open item needs a responsible professional, a dated status, and a written effect on closing."],
+      ["Match the Property Scope", "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the acreage, estate, formation, depth, county, owner fraction, or entity that appears elsewhere in the file."],
+      ["Tie the Exchange File to the Michigan Interest", "{name} should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline."],
+      ["Document Every Handoff Before Closing", "The qualified intermediary handles exchange funds and required notices; independent tax counsel evaluates eligibility and reporting; title counsel addresses deed, entity, probate, trust, and curative questions; the closing team confirms the tract, estate, fraction, consideration, and Michigan recording package."],
+      ["Reconcile Identification Language to the Replacement Record", "A replacement-property identification should be reviewed against the records available at the time. Names, legal descriptions, county references, entity ownership, percentage interests, and stated alternatives need consistent language across the notice, purchase documents, title file, and closing instructions."],
+      ["Archive the Completed Exchange and Owner Files Together", "The final owner copy should retain intermediary instructions, dated identification notices, settlement statements, recorded conveyances, title correspondence, funding records, replacement-property documents, professional advice, and the Michigan mineral ledger. Keeping both records together makes later reporting and ownership questions easier to answer."],
+      ["Close the Calendar With a Document Inventory", "After closing, the dated exchange calendar should be reconciled to the final settlement statement, intermediary account record, identification notice, replacement closing package, recorded Michigan conveyance, professional advice, and tax-reporting file. Missing documents are listed with an owner and follow-up date rather than assumed complete."]
+    ]
+  },
+  "form_fields": [
+    ["name", "text", "Name", true],
+    ["email", "email", "Email", true],
+    ["phone", "tel", "Phone", true],
+    ["message", "textarea", "Message", true]
+  ]
+}

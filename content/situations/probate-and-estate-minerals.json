@@ -1,0 +1,64 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Mineral Rights in Probate - Michigan Estate Sales",
+ "metaDescription": "Handling a Michigan estate with mineral rights and need to sell as executor? Here's how probate mineral sales actually work, and why timing matters for closing.",
+ "heroLead": "You're the executor, the estate has a Michigan mineral interest nobody in the family knows what to do with, and probate court wants the estate settled, not sitting open.",
+ "intro": [
+  "Executors get handed a lot of unfamiliar assets during estate settlement, and a fractional mineral interest tied to some Michigan county the deceased never talked about is one of the more confusing ones. Unlike a house or a bank account, there's no obvious market to check, no realtor to call, and the value isn't printed on a statement the way it is for a brokerage account. But probate court still expects the estate's assets accounted for and distributed, and a mineral interest is real property that has to be handled the same as everything else in the estate.",
+  "The good news is that selling a mineral interest during probate isn't complicated once you know the steps. It typically requires confirming the executor's authority through the letters testamentary or letters of administration, getting a valuation on the interest, and either distributing it to heirs or selling it and distributing proceeds, depending on what the will or the heirs decide. We handle probate sales regularly and can work directly with the estate attorney on documentation, which is usually the fastest way through it."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming Executor Authority to Sell",
+   "paragraphs": [
+    "Before any sale, the buyer needs to see the letters testamentary or letters of administration issued by the probate court naming you as executor or personal representative with authority over the estate's assets. If the will specifically addresses mineral or oil and gas interests, that language matters too. Some estates require court approval for a sale of real property depending on how the will is structured or whether it's an intestate estate, so it's worth confirming with the estate attorney what's actually required in your specific probate matter before assuming a straightforward sale is possible."
+   ]
+  },
+  {
+   "heading": "Sell Now or Distribute to Heirs First",
+   "paragraphs": [
+    "Executors generally have two paths. Sell the mineral interest as part of settling the estate and distribute cash proceeds to the heirs per the will or intestate succession, which is usually the cleaner option when heirs are scattered, disagree on what to do with the interest, or simply want the estate closed without carrying forward a shared asset. Or, distribute the interest itself to heirs as tenants in common and let them decide individually whether to keep or sell their share, which can drag the resolution out but keeps decision-making with the family rather than the executor. Which path makes sense usually comes down to whether the heirs are aligned or not, and how quickly the estate needs to close."
+   ]
+  },
+  {
+   "heading": "Working with the Estate Attorney",
+   "paragraphs": [
+    "We're happy to work directly with the estate's attorney rather than routing everything through the executor personally, which keeps the sale properly documented for the court record and reduces the burden on whoever's already juggling the rest of the estate's business. A written valuation and purchase agreement referencing the probate case number and the executor's authority is standard, and most probate courts are familiar with mineral interest sales as part of estate settlement even if they don't see them every day.",
+    "One thing worth flagging early: if the deceased owned the interest for decades, the estate may need to establish a stepped-up basis for tax purposes based on date-of-death value, which matters for the heirs' eventual tax treatment whether they keep or sell. That's a conversation for the estate's CPA or attorney, not something we advise on, but it's worth raising with them before the sale closes rather than after."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights without heir approval?",
+   "answer": "It depends on the will's language and Michigan probate requirements for the specific estate. Some executors have broad authority to sell estate assets; others need court approval or heir consent depending on how the estate is structured. Check with the estate attorney before proceeding."
+  },
+  {
+   "question": "What documents do I need as executor to sell a mineral interest?",
+   "answer": "Typically the letters testamentary or letters of administration from probate court, and any will language addressing the mineral or oil and gas interest specifically. We can work directly with your estate attorney to confirm exactly what's needed for your case."
+  },
+  {
+   "question": "Should I sell the mineral rights or distribute them to heirs?",
+   "answer": "That depends on whether the heirs agree on what to do. Selling and distributing cash proceeds is usually simpler when heirs are scattered or disagree. Distributing the interest itself keeps the decision with the family but can drag out estate closing."
+  },
+  {
+   "question": "Does selling during probate affect the heirs' taxes?",
+   "answer": "Inherited assets typically get a stepped-up basis to date-of-death value, which affects capital gains treatment. Talk to the estate's CPA or tax advisor about how that applies to your specific situation before the sale closes."
+  },
+  {
+   "question": "How long does a probate mineral sale usually take to close?",
+   "answer": "It varies by how quickly the estate attorney can confirm executor authority and by whether the specific probate court requires additional approval for the sale. Once documentation is in hand, the transaction itself typically moves faster than most other estate real property sales."
+  }
+ ],
+ "status": "written",
+ "wordCount": 880,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsmichigan-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

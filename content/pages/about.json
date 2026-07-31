@@ -1,0 +1,86 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Sell Mineral Rights Michigan",
+ "metaDescription": "We buy Michigan mineral rights directly, give you a straight number based on your actual production, and skip the mailbox-offer runaround.",
+ "heroLead": "We buy mineral rights across Michigan, and we'd rather tell you what your Antrim well is actually worth than send a form letter and hope you don't check.",
+ "intro": [
+  "Michigan mineral owners get a raw deal from a lot of buyers in this business. Letters show up with flat numbers pulled off a tax roll, no mention of your actual well, timed to land right after a royalty check or a lease bonus when you're most likely to sign fast. We built this operation to work the other way around: look at your real production, explain the number, and let you decide without a countdown clock attached to it."
+ ],
+ "sections": [
+  {
+   "heading": "Why we focus on Michigan",
+   "paragraphs": [
+    "The Antrim Shale is a different animal than the plays that get all the attention in Texas or North Dakota. It's biogenic gas, wells decline steeply early and then settle into a long, low, honest tail that can run for decades, and a lot of the ownership behind it traces back to farms that got split up among heirs two or three generations ago. That history matters when you're valuing a tract, and it's worth working with someone who actually understands what an Antrim decline curve looks like rather than applying a formula built for a different kind of well entirely.",
+    "We've spent our time in the counties that make up this trend, Otsego, Antrim, Kalkaska, Montmorency, and the ones around them, and we price offers based on what your specific well has actually done, not a generic number pulled from a spreadsheet."
+   ]
+  },
+  {
+   "heading": "How we're different from a mailbox offer",
+   "paragraphs": [
+    "We ask for your division order or your recent royalty statements before we quote a number, because that's the only honest way to build one. If your minerals are producing, we look at the decline stage and current gas prices. If they're undeveloped, we're upfront that the number reflects more uncertainty, not a made-up promise dressed up to sound solid.",
+    "We're not appraisers, attorneys, or your CPA, and we won't pretend otherwise. What we are is a direct buyer who'll walk you through exactly how we landed on our offer, and we're comfortable if you take that number and shop it around before deciding anything."
+   ]
+  },
+  {
+   "heading": "No pressure, no deadline",
+   "paragraphs": [
+    "We don't put expiration dates on our offers to rush a signature. Your minerals aren't going anywhere, and if you need a week or a month to talk to family, an attorney, or another buyer, that's fine with us. A number that only holds up if you sign today isn't one we'd stand behind either."
+   ]
+  },
+  {
+   "heading": "How we handle inherited and fractional interests",
+   "paragraphs": [
+    "A lot of the calls we get aren't from someone who bought minerals on purpose, they're from someone who inherited a fraction of a fraction from a grandparent's farm and has no idea what it's actually worth or even exactly what county it's in. That's a normal starting point, not a problem. We're used to working through old probate records, tracing legal descriptions written decades before anyone thought a computer would need to read them, and helping sort out who among a group of heirs owns what.",
+    "If you're one of several siblings or cousins who inherited together, we can work with the whole group or with just you, depending on what everyone wants. Selling doesn't have to be an all-or-nothing family decision."
+   ]
+  },
+  {
+   "heading": "What we won't do",
+   "paragraphs": [
+    "We won't quote you a number before looking at your actual ownership or production. We won't pressure you with a countdown clock. We won't tell you a check is guaranteed to be worth a certain amount, because nobody honestly knows that for sure on a well that's still producing and still declining. If any of that sounds different from a letter you've received recently, that's on purpose."
+   ]
+  },
+  {
+   "heading": "Working alongside your other advisors",
+   "paragraphs": [
+    "If you've already got an attorney or a CPA involved, or you want to bring one in before deciding anything, we're glad to work alongside them. Selling minerals is a big enough decision that a second set of eyes rarely hurts, and we'd rather answer their questions directly than have you relay everything back and forth."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you only buy producing minerals?",
+   "answer": "No, we look at both producing and undeveloped tracts across Michigan, though the valuation approach differs since undeveloped acreage has no production history to work from."
+  },
+  {
+   "question": "Are you an appraiser or attorney?",
+   "answer": "No, we're a direct buyer. For legal or tax questions specific to your situation, talk to your own attorney or CPA, we're happy to work alongside them."
+  },
+  {
+   "question": "Do I have to accept the first offer you give me?",
+   "answer": "No. We'd rather you compare our number to another buyer's than feel rushed into anything, a fair offer holds up either way."
+  },
+  {
+   "question": "What counties do you work in?",
+   "answer": "We buy mineral rights throughout Michigan's Antrim trend and beyond, including Otsego, Antrim, Kalkaska, Montmorency, Grand Traverse, and surrounding counties."
+  },
+  {
+   "question": "Can you help if I don't know exactly what I own?",
+   "answer": "Yes, this is one of the most common starting points we work from, especially with inherited interests, and we can usually help establish ownership through county deed and probate records."
+  },
+  {
+   "question": "Do you work with families who inherited minerals together?",
+   "answer": "Regularly. We're comfortable working through ownership across multiple heirs and letting each person decide individually whether selling makes sense for them."
+  }
+ ],
+ "wordCount": 910,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsmichigan-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

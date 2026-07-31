@@ -1,0 +1,35 @@
+/* slick-slider custom */
+.slick-slider .slick-track, .slick-slider .slick-list{height:100%;}
+.slick-slider .slick-slide:focus{outline:0;}
+.slick-slider .slick-track{ display:flex; align-items:stretch; margin-left:0;}
+.slick-slider {-webkit-user-select: text; -moz-user-select: text; -ms-user-select: text; user-select: text;}
+.slick-dots li:only-child{display:none;}
+
+.slick-slider .item{ background-size:cover; background-position:center; display:flex; align-items:center; height:auto;}
+
+.slick-dots{flex-grow: 1; justify-content:flex-start; bottom:-2rem; position:absolute; padding:0; height:0; margin:0; left:0; right:0; z-index: 2; display:flex; list-style-type: none;}
+.slick-dots li{ line-height:0; flex-basis:3rem;}
+.slick-dots li button{width:100%; height:2px; margin:0; line-height: 0; border:0; border-radius: 0; background:var(--color-base30); color:transparent; overflow:hidden; padding:0; transition:background 0.2s ease; }
+.slick-dots li button:hover{ background:var(--color-hover);}
+.slick-dots li button:focus{outline:0;}
+.slick-dots .slick-active button, .slick-dots .slick-active button:hover{background:var(--color-base); cursor:default;}
+
+.slick-arrow{color:var(--color-base); border:0; font-size: 1rem; opacity:1;  width:0.62rem; height:1.25rem; padding:0; z-index:2; background:none; overflow:hidden; background-position:center; background-repeat:no-repeat; transition:opacity 0.2s ease, background 0.2s ease, color 0.2s ease; }
+.slick-arrow:hover{ opacity:1; color:var(--color-hover);}
+.slick-arrow:focus{outline:0;}
+.slick-arrow.slick-disabled{ opacity:0.25; cursor:default; color:var(--color-base);}
+.slick-prev{left:0;}
+.slick-next{right:0;}
+.slick-cloned {background-position-x:center; background-position-y:center; background-size:cover;}
+
+.hidden-slide{ display:none!important;}
+
+.slider-controls{display: flex; align-items: center; gap:0.88rem; line-height: 1;}
+.slides-counter{font-weight:700; line-height: 1;}
+
+@media (max-width: 991.98px) {
+  .slider-controls .slick-dots{bottom:0; position: relative; height:auto;}
+}
+
+
+

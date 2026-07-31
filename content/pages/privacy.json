@@ -1,0 +1,95 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Sell Mineral Rights Michigan",
+ "metaDescription": "How we collect, use, and protect information you share with us about your Michigan mineral rights, and how to reach us with privacy questions.",
+ "heroLead": "Here's the plain-language version of what we do with the information you give us, no legal maze required to understand it.",
+ "intro": [
+  "When you contact us about Michigan mineral rights, you're often sharing details that matter to you, county records, ownership history, sometimes royalty statements with your name on them. This page explains what we collect, why, and what we do and don't do with it."
+ ],
+ "sections": [
+  {
+   "heading": "What information we collect",
+   "paragraphs": [
+    "When you reach out through our contact form or request an offer, we collect what you provide, typically your name, contact information, the county where your minerals are located, and any details or documents you choose to share about your ownership or production history. We also collect basic technical information automatically when you visit our site, like browser type and pages viewed, which helps us understand how the site is used.",
+    "We don't ask for financial account numbers, Social Security numbers, or other sensitive identifiers through our contact forms, and you should never need to provide those to get an initial offer."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "We use the information you provide to research your mineral ownership, build an offer, and communicate with you about your interest. If you don't move forward with a sale, we still may retain your information for a reasonable period in case you reach out again, but we don't use it for purposes unrelated to why you contacted us.",
+    "We don't sell your personal information to third parties for marketing purposes."
+   ]
+  },
+  {
+   "heading": "When we share information",
+   "paragraphs": [
+    "In the course of confirming ownership or completing a sale, we may need to share relevant details with title companies, county recording offices, or operators, since these steps require accurate ownership information to process a transfer. We limit that sharing to what's necessary for the transaction itself.",
+    "We may also disclose information if required by law, such as in response to a valid legal request."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we have on file for you, request corrections, or ask us to delete information we're not required to retain for legal or transactional reasons. Reach out through our contact page with any privacy request and we'll respond promptly."
+   ]
+  },
+  {
+   "heading": "Documents you share with us",
+   "paragraphs": [
+    "If you send us a deed, a division order, a royalty statement, or other documents to help confirm your mineral ownership, we treat those as part of your file for that specific inquiry or transaction. We store them securely and limit access to the people directly working on your file. We don't publish, repost, or share these documents beyond what's needed to confirm title or complete a sale.",
+    "If you decide not to move forward with a sale, you can ask us to delete documents you've shared, and we'll do so unless we're required to retain them for a legitimate business or legal reason."
+   ]
+  },
+  {
+   "heading": "Website data and cookies",
+   "paragraphs": [
+    "Like most websites, ours may use basic cookies or similar technology to understand traffic patterns and improve how the site functions. This data is generally aggregated and not tied to your identity unless you've submitted a form. You can adjust your browser settings to limit or block cookies, though some site features may not function as well as a result.",
+    "We may use third-party analytics tools to understand how visitors use the site. These tools operate under their own privacy practices in addition to ours.",
+    "We don't knowingly collect personal information from children, and this site isn't directed at minors. If you believe a child has submitted information to us, contact us and we'll address it promptly."
+   ]
+  },
+  {
+   "heading": "Changes to this policy",
+   "paragraphs": [
+    "We may update this privacy policy from time to time to reflect changes in our practices or for legal reasons. The version posted on this page is the one currently in effect, and we encourage you to check back periodically if you have ongoing concerns about your information."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my information to other companies?",
+   "answer": "No, we don't sell your personal information to third parties for marketing purposes."
+  },
+  {
+   "question": "Who sees my documents if I share a deed or division order?",
+   "answer": "Only the people involved in confirming your ownership or completing a potential sale, such as our internal team and, where necessary, a title company or the operator on your well."
+  },
+  {
+   "question": "Can I ask you to delete my information?",
+   "answer": "Yes, contact us and we'll remove what we're not legally required to retain, such as records tied to a completed property transfer."
+  },
+  {
+   "question": "Does requesting an offer put me on a marketing list?",
+   "answer": "No, we use your contact information to communicate about your specific mineral interest, not to add you to unrelated marketing campaigns."
+  },
+  {
+   "question": "Does this site use cookies?",
+   "answer": "It may use basic cookies or analytics tools to understand site traffic. You can adjust your browser settings to limit this if you prefer."
+  },
+  {
+   "question": "How long do you keep my documents?",
+   "answer": "We retain them as long as needed for your inquiry or transaction, and we'll delete them on request unless we're required to keep them for a legitimate legal or business reason."
+  }
+ ],
+ "wordCount": 867,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsmichigan-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI Explained - Michigan Non-Participating Royalty",
+ "metaDescription": "Own a non-participating royalty interest in Michigan? Learn what NPRI means, how it differs from owning minerals outright, and what it's worth to sell.",
+ "heroLead": "You get a royalty check but you never got a say in the lease, and now you're trying to figure out what kind of interest actually does that.",
+ "intro": [
+  "A non-participating royalty interest, NPRI for short, is a share of production revenue carved out of the mineral estate that comes with no right to lease, no right to negotiate bonus or royalty terms, and no right to receive delay rental or bonus payments the way a full mineral owner does. Whoever owns the underlying mineral estate handles all of that. The NPRI owner just receives their carved-out royalty share once production starts, based on the percentage or fraction specified when the interest was created.",
+  "In Michigan, NPRIs typically show up when a mineral owner sold or reserved a royalty share separately from the mineral estate itself, sometimes decades ago as a way to raise cash while keeping some future upside, or when an interest was divided that way during an estate settlement. If your paperwork describes a fixed royalty percentage with no mention of leasing rights or bonus payments, you're likely holding an NPRI rather than a full mineral interest, and that distinction changes both what you can expect from the interest and how it gets valued if you sell."
+ ],
+ "sections": [
+  {
+   "heading": "NPRI vs. Owning the Full Mineral Estate",
+   "paragraphs": [
+    "The practical difference matters most when a lease comes up for renewal or a new operator moves into the area. A full mineral owner gets to negotiate the bonus payment, the royalty rate, and the lease terms directly. An NPRI owner has none of that leverage; they're locked into whatever royalty percentage was specified when the NPRI was created, regardless of what better terms a mineral owner might negotiate on future leases. If your NPRI was carved out at, say, a 1/16th royalty decades ago and today's typical Michigan lease royalty runs higher, you don't get the upside of that difference. You're stuck with the original fraction specified in your instrument, which is worth understanding clearly before assuming your interest works the same as a mineral owner's."
+   ]
+  },
+  {
+   "heading": "How NPRI Value Gets Calculated",
+   "paragraphs": [
+    "Valuing an NPRI comes down to the specific royalty fraction you hold, the well's current production and decline trajectory, and how many years of production the interest realistically has left, similar in structure to valuing a mineral interest but working strictly off the fixed royalty percentage rather than any leasing upside. Because NPRI owners can't benefit from future lease renegotiation, the valuation is generally more straightforward, tied tightly to current and projected production, without the speculative premium a full mineral owner in an undrilled area might command."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI in Michigan",
+   "paragraphs": [
+    "NPRIs are sellable the same as any other real property interest, transferred by a deed that specifically conveys the royalty interest, and buyers price them based on production data pulled from your specific well's operator statements. Because there's no leasing upside to factor in, an accurate valuation depends heavily on getting the exact royalty fraction and legal description right, which we confirm against the county register of deeds record before quoting anything. If your NPRI is tied to a mature, declining Antrim well, expect the number to reflect that decline the same way it would for a full mineral interest, since the underlying production trend drives both.",
+    "One thing worth checking before selling: confirm your NPRI hasn't reverted or terminated under any specific durational language in the original instrument, since some older NPRIs were created for a term of years or tied to a specific lease rather than granted in perpetuity. That distinction affects whether there's anything left to sell."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between an NPRI and a mineral interest?",
+   "answer": "A mineral interest includes the right to lease and negotiate terms; an NPRI is just a fixed royalty share carved out of production with no leasing rights or say in lease terms. NPRI owners collect a set royalty fraction regardless of what a mineral owner negotiates on future leases."
+  },
+  {
+   "question": "Can an NPRI expire or terminate?",
+   "answer": "Some can, if the original instrument creating the NPRI specified a term of years or tied it to a specific lease rather than granting it in perpetuity. Check the original deed or reservation language, or have it reviewed, before assuming your NPRI is permanent."
+  },
+  {
+   "question": "How is an NPRI valued if I want to sell it?",
+   "answer": "Based on your specific royalty fraction against the well's current production and remaining decline trajectory. Since there's no leasing upside involved, the valuation ties closely to production data rather than speculative lease potential."
+  },
+  {
+   "question": "Do I need the mineral owner's permission to sell my NPRI?",
+   "answer": "No. An NPRI is a distinct, separately owned interest and can be sold independently of what the underlying mineral owner does with their interest."
+  },
+  {
+   "question": "How can I tell if my NPRI is tied to a specific term instead of perpetual?",
+   "answer": "Check the original instrument that created the interest for any language limiting it to a set number of years or to a specific lease. If it's silent on duration, most NPRIs are presumed perpetual, but it's worth confirming rather than assuming."
+  }
+ ],
+ "status": "written",
+ "wordCount": 875,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsmichigan-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

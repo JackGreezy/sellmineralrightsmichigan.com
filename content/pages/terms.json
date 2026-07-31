@@ -1,0 +1,99 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Sell Mineral Rights Michigan",
+ "metaDescription": "The terms governing use of this site, including how our offers work, what we are and aren't, and Michigan law governing any transaction.",
+ "heroLead": "The short version of these terms is: nothing on this site is a guarantee, and any real offer comes after we look at your actual minerals.",
+ "intro": [
+  "These terms govern your use of this website and any offer or communication you receive from us regarding Michigan mineral rights. By using the site or requesting an offer, you're agreeing to the terms below."
+ ],
+ "sections": [
+  {
+   "heading": "This site is informational, not advice",
+   "paragraphs": [
+    "The content on this site, including our resource guides, is provided for general information about Michigan mineral rights and is not legal, tax, or financial advice. We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing here should be treated as a substitute for advice from a qualified professional about your specific situation. Where a page touches on tax or legal topics, talk to your own attorney or CPA before making decisions.",
+    "Examples of value, pricing methods, or process described on this site are general in nature and don't represent a promise about what your specific mineral interest is worth."
+   ]
+  },
+  {
+   "heading": "How our offers work",
+   "paragraphs": [
+    "Any figure we provide before reviewing your actual ownership and, where applicable, production history is preliminary and subject to change once we've confirmed the details of your specific tract. A final offer is only binding once reflected in a signed purchase agreement or deed. We don't guarantee a specific price, return, or outcome, and any value discussion is necessarily a range that depends on production data, commodity prices, and title confirmation.",
+    "We reserve the right to decline to make an offer or to proceed with a transaction if title cannot be confirmed or if information provided proves inaccurate."
+   ]
+  },
+  {
+   "heading": "Accuracy of information you provide",
+   "paragraphs": [
+    "You agree that information you provide to us about your mineral ownership is accurate to the best of your knowledge. Providing false or misleading ownership information may delay or void a transaction, and any resulting costs may be your responsibility."
+   ]
+  },
+  {
+   "heading": "Governing law",
+   "paragraphs": [
+    "These terms, and any transaction arising from use of this site, are governed by the laws of the State of Michigan. Any dispute will be handled in accordance with Michigan law, in the county where the relevant mineral interest is located unless otherwise agreed in writing."
+   ]
+  },
+  {
+   "heading": "Use of the website",
+   "paragraphs": [
+    "You agree to use this site for its intended purpose, learning about Michigan mineral rights and, if you choose, requesting information about your ownership or a potential sale. You agree not to submit false information through our forms, attempt to disrupt the site's normal operation, or use content from this site for unrelated commercial purposes without permission.",
+    "Content on this site, including the resource guides, is provided as general educational material and may be updated or corrected over time as our understanding or the underlying facts change."
+   ]
+  },
+  {
+   "heading": "No guarantee of outcome",
+   "paragraphs": [
+    "We don't guarantee that any specific mineral interest will sell, sell for a particular amount, or close within a specific timeframe. Timelines and outcomes depend on factors outside our control, including title complexity, third-party recording offices, and operator responsiveness for producing tracts. Any timeline mentioned on this site or in communications with us is a general estimate, not a commitment.",
+    "Similarly, we don't guarantee outcomes related to tax treatment of a sale. Tax results depend on your individual circumstances and should be confirmed with your own CPA or tax advisor."
+   ]
+  },
+  {
+   "heading": "Limitation of liability",
+   "paragraphs": [
+    "To the extent permitted by Michigan law, we aren't liable for indirect, incidental, or consequential damages arising from your use of this site or reliance on general information provided here. Nothing in these terms limits liability that cannot be limited under applicable law."
+   ]
+  },
+  {
+   "heading": "Contacting us about these terms",
+   "paragraphs": [
+    "If anything in these terms is unclear, or you'd like clarification before requesting an offer or moving toward a sale, reach out through our contact page. We'd rather answer a question up front than have any part of this agreement come as a surprise later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a number on this site or in an email a binding offer?",
+   "answer": "No, preliminary figures are estimates subject to confirmation of your ownership and production details. Only a signed purchase agreement is binding."
+  },
+  {
+   "question": "Are you providing legal or tax advice on this site?",
+   "answer": "No, this site is informational only. For legal or tax questions specific to your situation, consult your own attorney or CPA."
+  },
+  {
+   "question": "What happens if information I provided turns out to be inaccurate?",
+   "answer": "It may delay confirming title or require adjusting the offer, and in some cases could affect whether we're able to proceed with the transaction."
+  },
+  {
+   "question": "Can these terms change over time?",
+   "answer": "Yes, we may update these terms periodically, and the version posted on this page at the time of any transaction applies."
+  },
+  {
+   "question": "Do you guarantee a specific closing timeline?",
+   "answer": "No, timelines are general estimates. Actual closing depends on title complexity and third-party recording offices, among other factors outside our control."
+  },
+  {
+   "question": "Is content on this site guaranteed to be current?",
+   "answer": "We aim to keep resource content accurate, but it's general educational material and may be updated over time. It shouldn't be treated as a substitute for advice specific to your situation."
+  }
+ ],
+ "wordCount": 873,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsmichigan-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes When You Sell Michigan Mineral Rights",
+ "metaDescription": "How selling Michigan mineral rights is generally taxed, including capital gains and inherited basis, plus what to bring to your CPA.",
+ "heroLead": "Selling minerals triggers a tax question most owners haven't thought about since the interest showed up on a deed with their name on it.",
+ "intro": [
+  "This isn't tax advice, it's a plain-language overview so you walk into your CPA's office knowing what questions to ask. Selling mineral rights generally has different tax treatment than the royalty income you may have been receiving all along, and getting the basics straight ahead of time makes that conversation faster and cheaper."
+ ],
+ "sections": [
+  {
+   "heading": "Capital gains, not ordinary income",
+   "paragraphs": [
+    "When you sell mineral rights outright, the proceeds are generally treated as a capital gain rather than ordinary income, which is different from how royalty checks are typically taxed while you're receiving them. The gain is calculated as your sale price minus your cost basis in the minerals, and whether that gain is short-term or long-term depends on how long you're considered to have held the interest.",
+    "This distinction matters because capital gains rates are often more favorable than ordinary income rates, but the specifics depend on your full tax picture, which is exactly the kind of thing to run past a CPA before you sign anything."
+   ]
+  },
+  {
+   "heading": "Inherited minerals and stepped-up basis",
+   "paragraphs": [
+    "Most Michigan mineral owners didn't buy their interest, they inherited it, often from a parent or grandparent who held the same fractional interest for decades. Inherited property generally receives a stepped-up basis, meaning your cost basis is typically based on the fair market value at the time you inherited it, not what your relative originally paid or what the interest was worth generations ago.",
+    "That stepped-up basis can significantly reduce your taxable gain compared to what you might assume, since the clock effectively resets at inheritance. Establishing that value accurately for the date you inherited is worth doing carefully, and your CPA can advise on how to document it."
+   ]
+  },
+  {
+   "heading": "Depletion and prior royalty income",
+   "paragraphs": [
+    "If you were receiving royalty checks before selling, you may have already been claiming a depletion deduction against that income, which reduces your basis over time. That prior depletion factors into the basis calculation when you eventually sell, so your CPA will want your royalty history alongside your sale documents to get the calculation right.",
+    "This is one more reason it's worth keeping old royalty statements even after you've sold, in case questions come up later."
+   ]
+  },
+  {
+   "heading": "What to bring to your CPA",
+   "paragraphs": [
+    "Gather your closing documents from the sale, any information on how and when you acquired the interest, whether by inheritance, gift, or purchase, and your royalty history if the minerals were producing before the sale. Handing your CPA a complete picture up front, rather than piecing it together after the fact, generally saves time and gets you a more accurate answer on what you owe."
+   ]
+  },
+  {
+   "heading": "Multiple heirs and shared interests",
+   "paragraphs": [
+    "When several siblings or cousins inherit a mineral interest together and each sell their own fractional share, each person generally handles their own tax reporting individually based on their own basis and their own proceeds. One heir's tax situation doesn't automatically apply to another, even though the underlying tract and the sale may have happened at the same time.",
+    "This is worth mentioning to your CPA specifically if your sale involved family members selling alongside you, since it affects how the paperwork gets organized and reported."
+   ]
+  },
+  {
+   "heading": "State considerations",
+   "paragraphs": [
+    "In addition to federal treatment, Michigan has its own state income tax considerations for gains from selling mineral rights. The specifics depend on your overall state filing situation, and your CPA is the right person to walk through how a mineral sale fits into your Michigan return alongside everything else.",
+    "None of this is meant to replace that conversation, just to help you walk into it with the right documents and the right questions ready."
+   ]
+  },
+  {
+   "heading": "Timing a sale around tax planning",
+   "paragraphs": [
+    "Some owners think about whether closing a sale in December versus January changes their tax picture, and it can, depending on what else is happening in that tax year. This is exactly the kind of timing question worth raising with your CPA before you finalize a closing date rather than after, especially if you have other significant income or gains in the same year."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I owe tax the same year I sell?",
+   "answer": "Generally yes, the sale is typically reportable in the tax year the transaction closes, but talk to your CPA about your specific filing situation and any estimated payment requirements."
+  },
+  {
+   "question": "What if I don't know what the minerals were worth when I inherited them?",
+   "answer": "This comes up often. A CPA or appraiser can help establish a reasonable value as of the inheritance date using historical production and pricing data, which becomes your stepped-up basis."
+  },
+  {
+   "question": "Is selling mineral rights taxed differently than a lease bonus payment?",
+   "answer": "Yes, lease bonus payments are generally treated as ordinary income while an outright sale of the mineral interest is generally treated as a capital gain, so the two aren't interchangeable for tax purposes."
+  },
+  {
+   "question": "Should I talk to a CPA before or after I get an offer?",
+   "answer": "Either works, but talking to your CPA or tax advisor before you close gives you time to gather the right documentation and understand the tax picture without pressure to decide quickly."
+  }
+ ],
+ "wordCount": 891,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsmichigan-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

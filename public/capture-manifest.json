@@ -1,0 +1,32 @@
+{
+  "src": "https://www.aquatech.com/",
+  "host": "aquatech.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.aquatech.com/",
+      "bytes": 81184
+    },
+    {
+      "label": "about",
+      "url": "https://www.aquatech.com/about",
+      "bytes": 45131
+    },
+    {
+      "label": "contact",
+      "url": "https://www.aquatech.com/contact-us",
+      "bytes": 49448
+    },
+    {
+      "label": "index",
+      "url": "https://www.aquatech.com/technologies",
+      "bytes": 41058
+    },
+    {
+      "label": "slug",
+      "url": "https://www.aquatech.com/applications/industrial-water-treatment/produced-water-treatment",
+      "bytes": 79370
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

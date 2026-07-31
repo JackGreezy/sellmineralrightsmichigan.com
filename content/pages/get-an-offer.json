@@ -1,0 +1,92 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Michigan Mineral Rights",
+ "metaDescription": "Request an offer on your Michigan mineral rights, built from your actual production and county records, not a flat number off a mailing list.",
+ "heroLead": "Request a real offer, built from your actual well or your actual deed, not a flat number sent to everyone in the county.",
+ "intro": [
+  "This is where the process starts if you already know you're interested in selling. Fill in what you know about your Michigan mineral interest, and we'll build a number from your actual ownership and, if applicable, your actual production history, rather than a generic figure pulled off a tax roll."
+ ],
+ "sections": [
+  {
+   "heading": "What we need from you",
+   "paragraphs": [
+    "The county your minerals are in matters most, followed by whatever paperwork you have on hand, a division order, a royalty statement, an old deed, or even just an operator name if you're getting royalty checks. If you don't have any of that, tell us what you do know, like how you came to own the interest, whether through inheritance or a prior purchase, and we'll take it from there.",
+    "If your interest is undeveloped, with no well ever drilled on the tract, let us know that too. It changes how we approach the valuation, but it doesn't mean there's nothing to talk about."
+   ]
+  },
+  {
+   "heading": "How we build the number",
+   "paragraphs": [
+    "For producing minerals, we look at your recent royalty history and where the well sits on its decline curve, then apply current market pricing to build a figure typically quoted as a multiple of recent royalty income. That multiple moves with commodity prices and how much production life is realistically left, so we'll walk you through the reasoning rather than hand you a number with no explanation behind it.",
+    "For undeveloped minerals, we look at lease activity and drilling interest in your specific county, and we're upfront that this kind of valuation carries more uncertainty than a producing tract with real check stubs behind it."
+   ]
+  },
+  {
+   "heading": "What comes next",
+   "paragraphs": [
+    "Once we've reviewed what you've sent, we'll get back to you with a number and an explanation of how we got there. You're free to take that offer, compare it against another buyer, or ask questions before deciding anything. If it works for you, we'll walk through the paperwork, confirm title through the county record, and move toward closing, which for most sales takes a couple of weeks."
+   ]
+  },
+  {
+   "heading": "If title needs sorting out first",
+   "paragraphs": [
+    "A fair number of Michigan mineral tracts we look at have some kind of title wrinkle, an estate that never went through probate, a legal description that doesn't quite match the current deed, or a sibling who's never been contacted about their share. None of that stops the process, it just adds a step before closing. We'll tell you upfront what needs to be cleared up and, where we can, help point you toward what's needed rather than leaving you to figure it out cold.",
+    "This is common enough with inherited interests that it shouldn't discourage you from reaching out. Most title questions on older Michigan mineral tracts have a straightforward fix once someone actually looks at the record."
+   ]
+  },
+  {
+   "heading": "Selling only part of your interest",
+   "paragraphs": [
+    "You don't have to sell everything you own. If you'd rather sell a portion and keep the rest, or sell one tract while holding onto another, tell us that upfront and we'll build the offer and the deed to reflect exactly that split."
+   ]
+  },
+  {
+   "heading": "Comparing our offer to others",
+   "paragraphs": [
+    "We'd rather you feel confident in the number than feel rushed into it. If you've already got another offer in hand, share it with us and we'll tell you honestly whether ours is in the same range and why, rather than just trying to beat it blindly. A real comparison should be based on the same production data and the same decline assumptions, beyond which number simply looks bigger on paper."
+   ]
+  },
+  {
+   "heading": "Multiple owners, one tract",
+   "paragraphs": [
+    "If you share ownership of the same tract with siblings, cousins, or other heirs, each person can request their own offer for their own fractional share, or one person can gather the family's information and we'll work through it together. Either way, each owner ultimately decides for themselves whether to move forward, and nobody is obligated to sell just because a family member does."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost to request an offer?",
+   "answer": "No, requesting an offer costs you nothing and doesn't obligate you to sell."
+  },
+  {
+   "question": "What if I don't have any paperwork on my minerals?",
+   "answer": "That's fine. We can often confirm ownership through county deed and probate records even without documents on hand, it just may take a little extra time."
+  },
+  {
+   "question": "Will the offer expire quickly?",
+   "answer": "We don't attach artificial deadlines to our offers. Take the time you need to compare it or talk it over with family before deciding."
+  },
+  {
+   "question": "How is the offer amount determined?",
+   "answer": "For producing minerals, it's built from your recent royalty income and the well's decline stage. For undeveloped minerals, it reflects nearby lease activity and drilling interest, with more inherent uncertainty."
+  },
+  {
+   "question": "Can I sell just part of what I own?",
+   "answer": "Yes, tell us which portion you'd like to sell and we'll structure the offer and the deed to match exactly that share."
+  },
+  {
+   "question": "What if there's a title issue with my inherited interest?",
+   "answer": "That's common and not a dealbreaker. We'll explain what's needed to clear it, whether that's a probate step or a corrective document, before moving toward closing."
+  }
+ ],
+ "wordCount": 902,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsmichigan-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

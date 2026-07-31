@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightsmichigan.com/sitemap.xml
+# AI: https://sellmineralrightsmichigan.com/llms.txt
