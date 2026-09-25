@@ -1,0 +1,30 @@
+{
+  "classes": {
+    ".rr-taste-hero-copy": "masthead-block",
+    ".rr-taste-hero-media": "bg",
+    "#contact-form button[type=submit]": "btn btn-primary"
+  },
+  "remove": {
+    "all": [],
+    "slug": [
+      ".breadcrumbs-section",
+      "#page-wrap > section.content-section:not(:has(p,h2,h3,a,img,form,iframe))"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "related": "#page-wrap",
+    "cta": "#page-wrap"
+  },
+  "templates": {
+    "faq": "<section class=\"content-section\"><div class=\"section-header mb-big\"><h2>{heading}</h2></div><div class=\"textbox lead mb\"><p>{intro}</p></div><div class=\"bordered-slider\">{items}</div></section>",
+    "faq_item": "<details class=\"item\"><summary><h3 class=\"h5 weight-semibold\">{q}</h3></summary><div class=\"textbox lead\">{a}</div></details>",
+    "related": "<section class=\"content-section bg-color-bg-light-blue\"><div class=\"container\"><div class=\"section-header mb-big\"><h2>{heading}</h2><a class=\"btn btn-primary\" href=\"{all_href}\">{all_label}</a></div><div class=\"latest-slider\">{items}</div></div></section>",
+    "related_item": "<div class=\"item\"><a class=\"area-link\" href=\"{href}\" title=\"{name}\"></a><div class=\"content\"><h3 class=\"h4 weight-semibold\">{name}</h3><div class=\"textbox lead mb\"><p>{teaser}</p></div><span class=\"sp-link\">Read More</span></div></div>",
+    "cta": "<section class=\"content-section overlay-color-dark-blue color-white text-center\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-8 offset-lg-2 col-md-10 offset-md-1\"><div class=\"textbox lead weight-bold\">{title}</div><p class=\"lead\">{intro}</p><p><a class=\"btn btn-white has-no-bullet\" href=\"{contact_href}\">{label}</a><a class=\"btn btn-white has-no-bullet\" href=\"{tel_href}\">Call {phone}</a></p></div></div></div></section>"
+  }
+}

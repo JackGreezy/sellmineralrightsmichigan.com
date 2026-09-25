@@ -1,0 +1,141 @@
+/* sellmineralrightsmichigan.com — Aquatech-native skin for engine-injected components.
+   Donor tokens: navy #1F3D7C, blue #0F9FC4, light blue #4FC3E0, pale band #EAF7FA,
+   card rule #C3E7F0, grey #E3E4E9, muted #808FAD, 1.5rem radius, 'Heading'/'Base' faces,
+   small pill buttons, "Read More ›" text links. */
+
+/* ---------- Header: white bar, right-aligned navy nav, small cyan pill ---------- */
+html body header#header #main-nav>li.rr-header-cta-item,html body header#header #main-nav>li:has(>a.rr-header-cta){min-height:0!important}
+html body header#header #main-nav>li>a.rr-header-cta{display:inline-flex!important;align-items:center!important;min-height:0!important;height:auto!important;margin:0 0 0 .25rem!important;padding:.45rem 1.1rem!important;border:1px solid #0F9FC4!important;border-radius:999px!important;background:#0F9FC4!important;color:#fff!important;font-family:'Base',sans-serif!important;font-size:.9rem!important;font-weight:500!important;letter-spacing:0!important;line-height:1.4!important;text-transform:none!important;white-space:nowrap!important;box-shadow:none!important}
+html body header#header #main-nav>li>a.rr-header-cta:hover{background:#1F3D7C!important;border-color:#1F3D7C!important}
+html body header#header #main-nav>li>a:not(.rr-header-cta){color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.95rem!important;font-weight:500!important}
+html body header#header #main-nav>li>a:not(.rr-header-cta):hover{color:#0F9FC4!important}
+html body header#header .rr-header-phone{color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.95rem!important;font-weight:600!important;text-decoration:none!important;white-space:nowrap!important}
+
+/* Wordmark: donor logotype colours, one line each, never wrapping */
+html body .rr-wordmark{display:inline-flex!important;flex-direction:column!important;align-items:flex-start!important;gap:2px!important;line-height:1!important;white-space:nowrap!important;text-decoration:none!important;font-family:'Heading',sans-serif!important}
+html body .rr-wordmark .rr-wm-1{color:#1F3D7C!important;font-size:20px!important;font-weight:600!important;letter-spacing:-.01em!important;line-height:1!important;white-space:nowrap!important;overflow-wrap:normal!important;word-break:keep-all!important}
+html body .rr-wordmark .rr-wm-2{color:#0F9FC4!important;font-size:11px!important;font-weight:600!important;letter-spacing:.32em!important;line-height:1!important;text-transform:uppercase!important;white-space:nowrap!important;overflow-wrap:normal!important;word-break:keep-all!important}
+
+/* Dropdown: donor white mega-menu card */
+html body header .rr-dropdown-menu,html body .rr-nav-dropdown{padding:.75rem!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;background:#fff!important;box-shadow:0 18px 40px rgba(31,61,124,.12)!important}
+html body header .rr-dropdown-menu .rr-dropdown-link{padding:.55rem .9rem!important;border:0!important;border-radius:999px!important;background:none!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.95rem!important;font-weight:500!important;letter-spacing:0!important;line-height:1.3!important;text-transform:none!important;text-decoration:none!important}
+html body header .rr-dropdown-menu .rr-dropdown-link::after{display:none!important}
+html body header .rr-dropdown-menu .rr-dropdown-link:hover,html body header .rr-dropdown-menu .rr-dropdown-link:focus-visible{background:#EAF7FA!important;color:#0F9FC4!important}
+html body header .rr-dropdown-menu .rr-dropdown-link--all{margin-top:.35rem!important;color:#0F9FC4!important;font-weight:600!important}
+
+/* Burger + drawer: white sheet, navy links, pale rules */
+html body .rr-burger{background:none!important;border:0!important}
+html body .rr-burger span{display:block!important;flex:0 0 2px!important;width:24px!important;height:2px!important;min-height:2px!important;margin:0!important;border-radius:2px!important;background:#1F3D7C!important}
+html body [data-rr-mobile]{background:#fff!important;color:#1F3D7C!important}
+html body.rr-nav-open [data-rr-mobile]{padding:76px 24px 28px!important;box-shadow:0 0 40px rgba(31,61,124,.2)!important}
+html body [data-rr-mobile] .rr-m-link{padding:15px 0!important;border:0!important;border-bottom:1px solid #C3E7F0!important;background:none!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:18px!important;font-weight:500!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
+html body [data-rr-mobile] .rr-m-link[href^="tel:"]{color:#0F9FC4!important}
+html body [data-rr-mobile] .rr-x{background:none!important;border:0!important;color:#1F3D7C!important}
+html body .rr-scrim{background:rgba(31,61,124,.45)!important}
+
+/* ---------- Slug hero: donor masthead — rounded photo, pale card overlapping bottom-left ---------- */
+html body section.rr-taste-hero.masthead-internal-section{position:relative!important;display:flex!important;flex-direction:column!important;justify-content:flex-end!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;min-height:35rem!important;margin:0!important;padding:3rem 0 1.5rem!important;overflow:visible!important;background:none!important;border:0!important;box-shadow:none!important}
+html body section.rr-taste-hero::before,html body section.rr-taste-hero::after{display:none!important}
+html body .rr-taste-hero img.rr-taste-hero-media{position:absolute!important;top:0!important;right:1.5rem!important;bottom:4.56rem!important;left:1.5rem!important;width:calc(100% - 3rem)!important;height:calc(100% - 4.56rem)!important;border-radius:1.5rem!important;filter:brightness(.88)!important}
+html body .rr-taste-hero .rr-taste-hero-copy{position:relative!important;z-index:2!important;box-sizing:border-box!important;width:min(760px,calc(100% - 4rem))!important;margin:0 0 0 max(3.5rem,calc((100vw - 1320px) / 2))!important;padding:3rem!important;border-radius:1.5rem!important;background:#EAF7FA!important}
+html body .rr-taste-hero h1{margin:0!important;color:#1F3D7C!important;font-family:'Heading',sans-serif!important;font-size:clamp(2.2rem,3.4vw,3rem)!important;font-weight:400!important;letter-spacing:0!important;line-height:1.15!important;text-shadow:none!important;text-transform:none!important}
+
+/* Prose: donor content-section measure */
+html body .rr-taste-prose-shell{position:relative!important;left:50%!important;box-sizing:border-box!important;width:min(780px,calc(100vw - 40px))!important;max-width:none!important;margin:0 0 0 calc(min(780px,calc(100vw - 40px)) / -2)!important;padding:3.5rem 0 4.5rem!important;background:none!important;border:0!important}
+html body [data-rr-taste-prose]{width:auto!important;max-width:none!important;margin:0!important;padding:0!important;background:none!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:1.06rem!important;line-height:1.65!important}
+html body [data-rr-taste-prose]>p{margin:0 0 1.1em!important;color:#1F3D7C!important}
+html body [data-rr-taste-prose]>h2,html body [data-rr-taste-prose]>h3{margin:2.75rem 0 1rem!important;padding:0!important;border:0!important;color:#1F3D7C!important;font-family:'Heading',sans-serif!important;font-size:clamp(1.6rem,2.2vw,2rem)!important;font-weight:400!important;letter-spacing:0!important;line-height:1.2!important;text-transform:none!important}
+html body [data-rr-taste-prose] a{color:#0F9FC4!important}
+
+/* FAQ: the donor "Why Choose" bordered cards, stacked as questions */
+html body [data-rr-taste-faq].content-section{margin:3.5rem 0 0!important;padding:0!important;background:none!important}
+html body [data-rr-taste-faq] .section-header{margin:0 0 .75rem!important}
+html body [data-rr-taste-faq] h2{margin:0!important;color:#1F3D7C!important;font-family:'Heading',sans-serif!important;font-size:clamp(1.8rem,2.6vw,2.4rem)!important;font-weight:400!important;line-height:1.15!important}
+html body [data-rr-taste-faq]>.textbox p{margin:0 0 1.5rem!important;color:#808FAD!important;font-size:1rem!important;line-height:1.55!important}
+html body [data-rr-taste-faq] .bordered-slider{display:flex!important;flex-direction:column!important;gap:.75rem!important;margin:0!important;opacity:1!important;transform:none!important}
+html body [data-rr-taste-faq] .item{display:block!important;width:auto!important;margin:0!important;padding:0 1.75rem!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;background:#fff!important;transition:background .2s ease!important}
+html body [data-rr-taste-faq] .item[open]{background:#EAF7FA!important}
+html body [data-rr-taste-faq] summary{position:relative!important;display:block!important;padding:1.25rem 2.25rem 1.25rem 0!important;cursor:pointer!important;list-style:none!important}
+html body [data-rr-taste-faq] summary::-webkit-details-marker{display:none!important}
+html body [data-rr-taste-faq] summary::after{content:'\f078'!important;position:absolute!important;right:0!important;top:50%!important;color:#0F9FC4!important;font:900 .85rem/1 'Font Awesome 5 Free'!important;transform:translateY(-50%)!important;transition:transform .2s ease!important}
+html body [data-rr-taste-faq] .item[open] summary::after{transform:translateY(-50%) rotate(180deg)!important}
+html body [data-rr-taste-faq] summary h3{margin:0!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:1.05rem!important;font-weight:600!important;line-height:1.4!important}
+html body [data-rr-taste-faq] .item .textbox,html body [data-rr-taste-faq] .item .textbox p{margin:0!important;padding:0 0 1.25rem!important;color:#1F3D7C!important;font-size:1rem!important;line-height:1.6!important}
+
+/* Related: donor "Latest Content" pale band with white rounded cards */
+html body [data-rr-taste-related].content-section{margin:0!important;padding:5rem 0!important;background:#EAF7FA!important}
+html body [data-rr-taste-related] .container{box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0!important}
+html body [data-rr-taste-related] .section-header{display:flex!important;flex-wrap:wrap!important;align-items:center!important;justify-content:space-between!important;gap:1rem 2rem!important;margin:0 0 2.5rem!important}
+html body [data-rr-taste-related] h2{margin:0!important;color:#1F3D7C!important;font-family:'Heading',sans-serif!important;font-size:clamp(2rem,3vw,2.75rem)!important;font-weight:400!important;line-height:1.1!important}
+html body [data-rr-taste-related] .latest-slider{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1.5rem!important;margin:0!important;opacity:1!important;transform:none!important}
+html body [data-rr-taste-related] .latest-slider .item{position:relative!important;display:flex!important;flex-direction:column!important;width:auto!important;margin:0!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;background:#fff!important;overflow:hidden!important}
+html body [data-rr-taste-related] .latest-slider .item:hover{background:#f4fbfd!important}
+html body [data-rr-taste-related] .area-link{position:absolute!important;inset:0!important;z-index:4!important}
+html body [data-rr-taste-related] .content{display:flex!important;flex-direction:column!important;flex:1 1 auto!important;padding:1.75rem 1.75rem 1.5rem!important}
+html body [data-rr-taste-related] .content h3{margin:0 0 .9rem!important;color:#1F3D7C!important;font-family:'Heading',sans-serif!important;font-size:1.35rem!important;font-weight:500!important;line-height:1.25!important}
+html body [data-rr-taste-related] .content .textbox p{margin:0 0 1.25rem!important;color:#1F3D7C!important;font-size:.98rem!important;line-height:1.55!important}
+html body [data-rr-taste-related] .content .textbox p:empty{display:none!important}
+html body [data-rr-taste-related] .sp-link{position:relative!important;margin-top:auto!important;padding-right:1rem!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.9rem!important;font-weight:500!important;opacity:1!important}
+html body [data-rr-taste-related] .sp-link::after{content:'\f054'!important;position:absolute!important;right:0!important;top:50%!important;font:900 .6rem/1 'Font Awesome 5 Free'!important;transform:translateY(-50%)!important}
+html body [data-rr-taste-related] .btn-primary,html body [data-rr-taste-cta] .btn-white,html body #contact-form button[type=submit]{display:inline-flex!important;align-items:center!important;justify-content:center!important;width:auto!important;min-height:0!important;margin:0!important;padding:.5rem 1.4rem!important;border-radius:999px!important;font-family:'Base',sans-serif!important;font-size:.95rem!important;font-weight:500!important;line-height:1.4!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important;box-shadow:none!important}
+html body [data-rr-taste-related] .btn-primary,html body #contact-form button[type=submit]{border:1px solid #0F9FC4!important;background:#0F9FC4!important;color:#fff!important}
+html body [data-rr-taste-related] .btn-primary:hover,html body #contact-form button[type=submit]:hover{border-color:#1F3D7C!important;background:#1F3D7C!important}
+
+/* Closing CTA: donor water band — blue overlay, centred bold white line, white pills */
+html body [data-rr-taste-cta].content-section{position:relative!important;margin:0!important;padding:5rem 0!important;background:#2c6c9a!important;color:#fff!important;text-align:center!important}
+html body [data-rr-taste-cta]::before{display:none!important}
+html body [data-rr-taste-cta] .container{box-sizing:border-box!important;width:min(900px,calc(100% - 48px))!important;margin:0 auto!important;padding:0!important}
+html body [data-rr-taste-cta] .row,html body [data-rr-taste-cta] .row>div{display:block!important;width:auto!important;max-width:none!important;margin:0!important;padding:0!important}
+html body [data-rr-taste-cta] .weight-bold{margin:0 0 .75rem!important;color:#fff!important;font-family:'Base',sans-serif!important;font-size:clamp(1.25rem,2vw,1.6rem)!important;font-weight:700!important;line-height:1.35!important}
+html body [data-rr-taste-cta] p.lead{margin:0 auto 1.75rem!important;max-width:640px!important;color:rgba(255,255,255,.88)!important;font-size:1rem!important;line-height:1.55!important}
+html body [data-rr-taste-cta] p:last-child{display:flex!important;flex-wrap:wrap!important;justify-content:center!important;gap:.75rem!important;margin:0!important}
+html body [data-rr-taste-cta] .btn-white{border:1px solid #fff!important;background:#fff!important;color:#1F3D7C!important}
+html body [data-rr-taste-cta] .btn-white+.btn-white{background:transparent!important;color:#fff!important}
+html body [data-rr-taste-cta] .btn-white:hover{background:#EAF7FA!important;color:#1F3D7C!important}
+
+/* ---------- Contact: donor pill fields ---------- */
+html body #contact-form{box-sizing:border-box!important;margin:0!important;padding:0!important;border:0!important;background:none!important;box-shadow:none!important}
+html body #contact-form label{margin:0 0 .35rem!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.9rem!important;font-weight:600!important;letter-spacing:0!important;text-transform:none!important}
+html body #contact-form input,html body #contact-form textarea,html body #contact-form .form-control{box-sizing:border-box!important;width:100%!important;min-height:0!important;padding:.8rem 1.25rem!important;border:1px solid #C3E7F0!important;border-radius:999px!important;background:#fff!important;color:#1F3D7C!important;font:1rem/1.4 'Base',sans-serif!important;box-shadow:none!important}
+html body #contact-form textarea{min-height:160px!important;border-radius:1.5rem!important}
+html body #contact-form input:focus,html body #contact-form textarea:focus{border-color:#0F9FC4!important;outline:0!important}
+html body #contact-form>button{justify-self:start!important}
+html body .rr-contact-map{box-sizing:border-box!important;height:340px!important;margin:2rem 0 0!important;padding:0!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;overflow:hidden!important;background:#EAF7FA!important;box-shadow:none!important}
+
+/* ---------- Footer map: rounded frame above the donor legal rule ---------- */
+html body footer .rr-footer-map{box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;max-width:none!important;height:260px!important;min-height:260px!important;margin:0 auto 2.5rem!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;background:#EAF7FA!important;box-shadow:none!important}
+
+/* ---------- Home: rail controls in donor navy chevrons, card text readable ---------- */
+html body .rr-carousel-controls button,html body [data-rr-carousel] .rr-carousel-control{width:2.5rem!important;min-width:2.5rem!important;height:2.5rem!important;border:1px solid #C3E7F0!important;border-radius:999px!important;background:#fff!important;color:#1F3D7C!important}
+html body .rr-carousel-controls button:hover,html body [data-rr-carousel] .rr-carousel-control:hover{border-color:#0F9FC4!important;color:#0F9FC4!important}
+
+@media(max-width:991px){
+  html body section.rr-taste-hero.masthead-internal-section{min-height:0!important;padding:0 0 1.5rem!important}
+  html body .rr-taste-hero img.rr-taste-hero-media{position:relative!important;inset:auto!important;width:calc(100% - 1.5rem)!important;height:calc(100vw / 2.2)!important;margin:0 .75rem!important}
+  html body .rr-taste-hero .rr-taste-hero-copy{width:calc(100% - 3rem)!important;margin:-2rem 1.5rem 0!important;padding:2rem!important}
+  html body [data-rr-taste-related] .latest-slider{grid-template-columns:1fr!important}
+}
+@media(max-width:767px){
+  html body .rr-taste-prose-shell{padding:2.25rem 0 3rem!important}
+  html body [data-rr-taste-faq] .item{padding:0 1.25rem!important}
+  html body [data-rr-taste-related].content-section,html body [data-rr-taste-cta].content-section{padding:3.5rem 0!important}
+  html body [data-rr-taste-related] .container,html body [data-rr-taste-cta] .container{width:calc(100% - 32px)!important}
+  html body #contact-form>button{width:100%!important}
+  html body .rr-contact-map{height:260px!important}
+  html body footer .rr-footer-map{width:calc(100% - 32px)!important;height:220px!important;min-height:220px!important}
+}
+
+html body header#header #main-nav>li:has(>a.rr-header-cta){min-height:0!important}
+/* Footer: donor link columns and legal row */
+html body footer#footer .footer-brand a{display:block!important;margin:0 0 .7rem!important;color:#1F3D7C!important;font-family:'Base',sans-serif!important;font-size:.95rem!important;line-height:1.35!important;text-decoration:none!important}
+html body footer#footer .footer-brand a:hover{color:#0F9FC4!important}
+html body footer#footer .footer-bottom{color:#808FAD!important;font-family:'Base',sans-serif!important;font-size:.8rem!important}
+html body footer#footer .rr-footer-ia{display:flex!important;flex-wrap:wrap!important;gap:.4rem 1.4rem!important;box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;margin:0 auto!important;padding:0 0 2rem!important;background:none!important;border:0!important}
+html body footer#footer .rr-footer-ia a{padding:0!important;color:#808FAD!important;font-family:'Base',sans-serif!important;font-size:.8rem!important;text-decoration:none!important}
+html body footer#footer .rr-footer-ia a:hover{color:#0F9FC4!important}
+@media(max-width:767px){html body footer#footer .rr-footer-ia{width:calc(100% - 32px)!important}}
+html body .application-section h2.section-title{position:static!important;inset:auto!important;margin:0 0 2rem!important;transform:none!important}
+html body .masthead-home-section .textbox{max-width:25rem!important}
+html body .application-section>a.rr-view-all{margin:0 0 3rem max(1.5rem,calc((100vw - 1320px) / 2))!important}
+html body #contact-form .rr-contact-field:nth-child(n+3){grid-column:1/-1!important}
+html body .rr-contact-map{margin-bottom:1.75rem!important}
