@@ -258,7 +258,7 @@
             },
             {
               "sel": ".bg",
-              "bg": "/ours/basins/mineral-rights-basins-antrim-shale-sellmineralrightsmichigan-com.jpg"
+              "bg": "/ours/pages/mineral-rights-pages-home-sellmineralrightsmichigan-com.jpg"
             }
           ]
         },
@@ -311,7 +311,7 @@
           "ops": [
             {
               "sel": "h2",
-              "copy": "home_intro_title"
+              "text": "Four Records Before Any Michigan Number"
             },
             {
               "sel": ".textbox p",
@@ -431,6 +431,50 @@
             "/investing"
           ],
           "view_all_selector": ".section-header a.sp-link"
+        },
+        {
+          "selector": ".featured-projects-slider .item",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".text-wrap h2",
+              "after_html": "<div class=\"textbox lead mb\"><p>Treat a Michigan royalty as a paid decimal with a decline tail, not a yield quote, and test it against several statement months.</p></div>"
+            }
+          ]
+        },
+        {
+          "selector": ".featured-projects-slider .item",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".text-wrap h2",
+              "after_html": "<div class=\"textbox lead mb\"><p>Legal description, acquired fraction, Antrim production stage, deductions, and title expense, checked in that order.</p></div>"
+            }
+          ]
+        },
+        {
+          "selector": ".featured-projects-slider .item",
+          "nth": 2,
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".text-wrap h2",
+              "after_html": "<div class=\"textbox lead mb\"><p>Current checks are direct evidence; leases and nearby permits are context that should never be priced as guaranteed drilling.</p></div>"
+            }
+          ]
+        },
+        {
+          "selector": ".featured-projects-slider .item",
+          "nth": 3,
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".text-wrap h2",
+              "after_html": "<div class=\"textbox lead mb\"><p>Lease royalty, unit participation, taxes, and deductions each move the amount that actually lands on the owner statement.</p></div>"
+            }
+          ]
         }
       ],
       "carousels": [
@@ -468,7 +512,6 @@
       "title": ".masthead-internal-section h1",
       "title_as_h1": true,
       "hero_meta": ".masthead-internal-section p",
-      "hero_bg": ".masthead-internal-section .bg",
       "sections": [
         {
           "selector": ".masthead-internal-section",
@@ -476,7 +519,11 @@
           "ops": [
             {
               "sel": ".textbox p",
-              "copy": "about_story_body"
+              "text": "Every Michigan offer is read against the recorded tract, the paid decimal, and the Antrim production record before a number is compared."
+            },
+            {
+              "sel": ".bg",
+              "bg": "/ours/pages/mineral-rights-pages-about-sellmineralrightsmichigan-com.jpg"
             }
           ]
         },
@@ -603,7 +650,16 @@
         ".ba-cookies-module",
         ".content-section.bg-image-cover"
       ],
-      "repair_css": ".masthead-internal-section .bg{background-position:center!important;background-size:cover!important}.masthead-internal-section h1{max-width:16ch!important;white-space:normal!important;word-break:normal!important}.wide-listing{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1.5rem!important;background:none!important}.wide-listing>.item{display:flex!important;flex-direction:column!important;align-items:stretch!important;box-sizing:border-box!important;width:auto!important;max-width:none!important;min-width:0!important;margin:0!important;padding:1.5rem!important;background:#fff!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;overflow:hidden!important}.wide-listing>.item>*{box-sizing:border-box!important;flex:0 0 auto!important;width:100%!important;max-width:none!important;min-width:0!important}.wide-listing>.item .icon{display:block!important;margin:0 0 1.35rem!important}.wide-listing>.item .icon img{display:block!important;width:100%!important;max-width:none!important;height:220px!important;object-fit:cover!important}.wide-listing>.item .textbox{display:block!important;flex:1 1 auto!important;width:100%!important;max-width:none!important}.wide-listing>.item h3,.wide-listing>.item p,.wide-listing>.item a{display:block!important;width:100%!important;max-width:none!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}@media(max-width:960px){.wide-listing{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.wide-listing{grid-template-columns:1fr!important}}"
+      "repair_css": ".masthead-internal-section .bg{background-position:center!important;background-size:cover!important}.masthead-internal-section h1{max-width:16ch!important;white-space:normal!important;word-break:normal!important}.wide-listing{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1.5rem!important;background:none!important}.wide-listing>.item{display:flex!important;flex-direction:column!important;align-items:stretch!important;box-sizing:border-box!important;width:auto!important;max-width:none!important;min-width:0!important;margin:0!important;padding:1.5rem!important;background:#fff!important;border:1px solid #C3E7F0!important;border-radius:1.5rem!important;overflow:hidden!important}.wide-listing>.item>*{box-sizing:border-box!important;flex:0 0 auto!important;width:100%!important;max-width:none!important;min-width:0!important}.wide-listing>.item .icon{display:block!important;margin:0 0 1.35rem!important}.wide-listing>.item .icon img{display:block!important;width:100%!important;max-width:none!important;height:220px!important;object-fit:cover!important}.wide-listing>.item .textbox{display:block!important;flex:1 1 auto!important;width:100%!important;max-width:none!important}.wide-listing>.item h3,.wide-listing>.item p,.wide-listing>.item a{display:block!important;width:100%!important;max-width:none!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}@media(max-width:960px){.wide-listing{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.wide-listing{grid-template-columns:1fr!important}}",
+      "hero_images": {
+        "locations": "/ours/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightsmichigan-com.jpg",
+        "situations": "/ours/pages/mineral-rights-pages-get-an-offer-sellmineralrightsmichigan-com.jpg",
+        "interest-types": "/ours/pages/mineral-rights-pages-privacy-sellmineralrightsmichigan-com.jpg",
+        "basins": "/ours/locations/sell-mineral-rights-kalkaska-county-mi.jpg",
+        "resources": "/ours/pages/mineral-rights-pages-terms-sellmineralrightsmichigan-com.jpg",
+        "investing": "/ours/exchange-1031/mineral-rights-exchange-1031-1031-from-farmland-into-minerals-sellmineralrightsmichigan-com.jpg",
+        "exchange-1031": "/ours/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightsmichigan-com.jpg"
+      }
     },
     "slug": {
       "signature": [

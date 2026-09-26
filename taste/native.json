@@ -5,7 +5,10 @@
     "#contact-form button[type=submit]": "btn btn-primary"
   },
   "remove": {
-    "all": [],
+    "all": [
+      "[data-rr-mobile] .rr-m-link[href=\"/contact#contact-form\"] ~ .rr-m-link[href=\"/contact#contact-form\"]",
+      "#main-nav > li:not(:has(a))"
+    ],
     "slug": [
       ".breadcrumbs-section",
       "#page-wrap > section.content-section:not(:has(p,h2,h3,a,img,form,iframe))"

@@ -108,6 +108,8 @@ html body footer .rr-footer-map{box-sizing:border-box!important;width:min(1320px
 /* ---------- Home: rail controls in donor navy chevrons, card text readable ---------- */
 html body .rr-carousel-controls button,html body [data-rr-carousel] .rr-carousel-control{width:2.5rem!important;min-width:2.5rem!important;height:2.5rem!important;border:1px solid #C3E7F0!important;border-radius:999px!important;background:#fff!important;color:#1F3D7C!important}
 html body .rr-carousel-controls button:hover,html body [data-rr-carousel] .rr-carousel-control:hover{border-color:#0F9FC4!important;color:#0F9FC4!important}
+html body [data-rr-carousel="agency"] .rr-agency-control{width:2.5rem!important;min-width:2.5rem!important;height:2.5rem!important;border:1px solid #C3E7F0!important;border-radius:999px!important;background:#fff!important;color:#1F3D7C!important}
+html body [data-rr-carousel="agency"] .rr-agency-control:hover{border-color:#0F9FC4!important;color:#0F9FC4!important}
 
 @media(max-width:991px){
   html body section.rr-taste-hero.masthead-internal-section{min-height:0!important;padding:0 0 1.5rem!important}
@@ -139,3 +141,15 @@ html body .masthead-home-section .textbox{max-width:25rem!important}
 html body .application-section>a.rr-view-all{margin:0 0 3rem max(1.5rem,calc((100vw - 1320px) / 2))!important}
 html body #contact-form .rr-contact-field:nth-child(n+3){grid-column:1/-1!important}
 html body .rr-contact-map{margin-bottom:1.75rem!important}
+
+/* ---------- Polish: slick clearfix pseudo-elements must not take a flex/gap slot (shifted cards off-screen) ---------- */
+html body .solutions-slider .slick-track::before,html body .solutions-slider .slick-track::after,html body .news-slider .slick-track::before,html body .news-slider .slick-track::after,html body .featured-projects-slider .slick-track::before,html body .featured-projects-slider .slick-track::after{content:none!important;display:none!important}
+/* resources card: counter and arrows sit inside the card */
+html body .news-section .news-block{display:flex!important;flex-direction:column!important;justify-content:space-between!important;box-sizing:border-box!important;height:auto!important;padding-bottom:2rem!important;overflow:hidden!important}
+html body .news-section .news-slider .item{box-sizing:border-box!important;max-width:100%!important;overflow-wrap:break-word!important}
+/* investing slide: photo fills its donor frame, copy sits beside it, never on top of it */
+html body .featured-projects-slider .item .image-wrap img{height:100%!important}
+html body .featured-projects-slider .item .text-wrap .textbox{margin:1rem 0 1.25rem!important;color:#1F3D7C!important}
+@media(max-width:767px){html body .featured-projects-slider .item .image-wrap{height:calc(100vw/1.618)!important}html body .featured-projects-slider .item .text-wrap{position:relative!important;z-index:1!important;margin-top:1.25rem!important}}
+/* about: alternating rows mirror the bleed so text and photo never overlap */
+@media(min-width:768px){html body .illustrated-section:nth-of-type(even) .row>.col-md-6.indent-right{padding-right:calc(var(--bs-gutter-x,1.5rem)*.5)!important;padding-left:4.25rem!important}html body .illustrated-section:nth-of-type(even) .image-wrap{margin-left:0!important;margin-right:calc(var(--container,1320px)/2 - 50vw - .75rem)!important}}

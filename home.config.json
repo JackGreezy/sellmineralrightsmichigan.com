@@ -17,14 +17,32 @@
   "vertical": "mineral-rights",
   "suppress_footer_media": true,
   "brand_favicon": "/favicon.svg",
-  "hero_image": "/ours/basins/mineral-rights-basins-antrim-shale-sellmineralrightsmichigan-com.jpg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsmichigan-com.jpg",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmichigan.com/site-voice.json",
   "nav": [
-    ["Owner Situations", "/situations"],
-    ["Interest Types", "/interest-types"],
-    ["Michigan Guides", "/resources"],
-    ["Michigan Areas", "/locations"],
-    ["Request Review", "/contact#contact-form"]
+    [
+      "Owner Situations",
+      "/situations"
+    ],
+    [
+      "Interest Types",
+      "/interest-types"
+    ],
+    [
+      "Michigan Guides",
+      "/resources"
+    ],
+    [
+      "Michigan Areas",
+      "/locations"
+    ],
+    [
+      "Request Review",
+      "/contact#contact-form"
+    ]
   ],
-  "cta": ["Request a Michigan Mineral Review", "/contact#contact-form"]
+  "cta": [
+    "Request a Michigan Mineral Review",
+    "/contact#contact-form"
+  ]
 }
