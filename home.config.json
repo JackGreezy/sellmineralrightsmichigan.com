@@ -61,5 +61,263 @@
     "/ours/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsmichigan-com.jpg": "/ours/basins/mineral-rights-basins-antrim-shale-sellmineralrightsmichigan-com.jpg",
     "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsmichigan-com.jpg": "/ours/basins/mineral-rights-basins-antrim-shale-sellmineralrightsmichigan-com.jpg"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/antrim-county": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/alpena-county": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/manistee-county": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/central-lake-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/ellsworth-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/alden-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/alba-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/ossineke-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/lakes-of-the-north-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/bear-lake-kalkaska-county-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/bear-lake-manistee-county-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/kaleva-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/copemish-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/brethren-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/stronach-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/filer-city-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/eastlake-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/parkdale-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/oak-hill-mi": {
+      "src": "/ours/locations/regional-alpena-mi.jpg",
+      "alt": "Regional view: Alpena, Michigan",
+      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Michigan",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+    },
+    "/locations/gaylord-mi": {
+      "src": "/ours/locations/sell-mineral-rights-gaylord-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Gaylord, MI"
+    },
+    "/locations/otsego-county": {
+      "src": "/ours/locations/sell-mineral-rights-otsego-county-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Otsego County, MI"
+    },
+    "/locations/kalkaska-county": {
+      "src": "/ours/locations/sell-mineral-rights-kalkaska-county-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kalkaska County, MI"
+    },
+    "/locations/montmorency-county": {
+      "src": "/ours/locations/sell-mineral-rights-montmorency-county-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Montmorency County, MI"
+    },
+    "/locations/bellaire-mi": {
+      "src": "/ours/locations/sell-mineral-rights-bellaire-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bellaire, MI"
+    },
+    "/locations/kalkaska-mi": {
+      "src": "/ours/locations/sell-mineral-rights-kalkaska-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kalkaska, MI"
+    },
+    "/locations/manistee-mi": {
+      "src": "/ours/locations/sell-mineral-rights-manistee-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Manistee, MI"
+    },
+    "/locations/alpena-mi": {
+      "src": "/ours/locations/sell-mineral-rights-alpena-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alpena, MI"
+    },
+    "/locations/grayling-mi": {
+      "src": "/ours/locations/sell-mineral-rights-grayling-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grayling, MI"
+    },
+    "/locations/elk-rapids-mi": {
+      "src": "/ours/locations/sell-mineral-rights-elk-rapids-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Elk Rapids, MI"
+    },
+    "/locations/mancelona-mi": {
+      "src": "/ours/locations/sell-mineral-rights-mancelona-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mancelona, MI"
+    },
+    "/locations/lewiston-mi": {
+      "src": "/ours/locations/sell-mineral-rights-lewiston-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lewiston, MI"
+    },
+    "/locations/rapid-city-mi": {
+      "src": "/ours/locations/sell-mineral-rights-rapid-city-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rapid City, MI"
+    },
+    "/locations/atlanta-mi": {
+      "src": "/ours/locations/sell-mineral-rights-atlanta-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Atlanta, MI"
+    },
+    "/locations/mio-mi": {
+      "src": "/ours/locations/sell-mineral-rights-mio-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mio, MI"
+    },
+    "/locations/oscoda-county": {
+      "src": "/ours/locations/sell-mineral-rights-oscoda-county-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Oscoda County, MI"
+    },
+    "/locations/crawford-county": {
+      "src": "/ours/locations/sell-mineral-rights-crawford-county-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Crawford County, MI"
+    },
+    "/locations/eastport-mi": {
+      "src": "/ours/locations/sell-mineral-rights-eastport-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Eastport, MI"
+    },
+    "/locations/south-boardman-mi": {
+      "src": "/ours/locations/sell-mineral-rights-south-boardman-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in South Boardman, MI"
+    },
+    "/locations/vanderbilt-mi": {
+      "src": "/ours/locations/sell-mineral-rights-vanderbilt-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Vanderbilt, MI"
+    },
+    "/locations/hillman-mi": {
+      "src": "/ours/locations/sell-mineral-rights-hillman-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hillman, MI"
+    },
+    "/locations/canada-creek-ranch-mi": {
+      "src": "/ours/locations/sell-mineral-rights-canada-creek-ranch-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Canada Creek Ranch, MI"
+    },
+    "/locations/arcadia-mi": {
+      "src": "/ours/locations/sell-mineral-rights-arcadia-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arcadia, MI"
+    },
+    "/locations/onekama-mi": {
+      "src": "/ours/locations/sell-mineral-rights-onekama-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Onekama, MI"
+    },
+    "/locations/manistee-lake-mi": {
+      "src": "/ours/locations/sell-mineral-rights-manistee-lake-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Manistee Lake, MI"
+    },
+    "/locations/wellston-mi": {
+      "src": "/ours/locations/sell-mineral-rights-wellston-mi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wellston, MI"
+    }
+  }
 }
