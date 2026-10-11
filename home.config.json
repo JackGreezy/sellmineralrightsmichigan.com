@@ -64,156 +64,194 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/antrim-county": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/alpena-county": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/manistee-county": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/central-lake-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/ellsworth-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/alden-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/alba-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/ossineke-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/lakes-of-the-north-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/bear-lake-kalkaska-county-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/bear-lake-manistee-county-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/kaleva-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/copemish-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/brethren-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/stronach-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/filer-city-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/eastlake-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/parkdale-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/oak-hill-mi": {
-      "src": "/ours/locations/regional-alpena-mi.jpg",
-      "alt": "Regional view: Alpena, Michigan",
-      "credit": "Alpena, Michigan. Regional Michigan photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg\" rel=\"noopener\">Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-atlanta-mi.jpg",
+      "alt": "View of Atlanta, Michigan",
       "regional": true,
       "region": "Michigan",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlpena_City_Hall_%2853882685763%29_%28cropped%29.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanta,_MI_downtown.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Michigan view: Atlanta, Michigan."
     },
     "/locations/gaylord-mi": {
       "src": "/ours/locations/sell-mineral-rights-gaylord-mi.jpg",
